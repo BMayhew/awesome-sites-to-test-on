@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [10.x, 12.x, 14.x, 15.x]
+        node-version: [15.x]
 
     steps:
     - uses: actions/checkout@v2
@@ -22,4 +22,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install linkinator
-    - run: npx linkinator ./readme.md --markdown
+    - run: npx linkinator ./readme.md --markdown --skip '^(?!(orangehrmlive)(rickandmortyapi\.com\/graphql))'
