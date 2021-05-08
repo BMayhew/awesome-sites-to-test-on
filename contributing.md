@@ -9,6 +9,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Link and description should follow the existing format.
 - Self promoting is fine as long as you are here to help!
+- github action is set to automatically check links to ensure no broken links using [Linkinator](https://github.com/JustinBeckwith/linkinator)
 
 Thank you for your suggestions!
 
