@@ -70,6 +70,7 @@ Worthy sites for security testing
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
+- [Rick and Morty API](https://rickandmortyapi.com/graphql)  - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
 - [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
