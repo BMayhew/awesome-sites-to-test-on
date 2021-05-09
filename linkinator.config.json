@@ -1,0 +1,10 @@
+{
+  "format": "text",
+  "recurse": true,
+  "silent": false,
+  "concurrency": 100,
+  "timeout": 0,
+  "markdown": true,
+  "directoryListing": true,
+  "skip": ["https://orangehrm-demo-6x.orangehrmlive.com/", "https://rickandmortyapi.com/graphql"]
+}
