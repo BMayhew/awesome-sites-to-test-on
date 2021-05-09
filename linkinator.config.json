@@ -1,7 +1,7 @@
 {
   "format": "text",
   "recurse": true,
-  "silent": false,
+  "silent": true,
   "concurrency": 100,
   "timeout": 0,
   "markdown": true,
