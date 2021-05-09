@@ -22,4 +22,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install linkinator
-    - run: npx linkinator --config ./linkinator.config.json  ./README.md --markdown
+    - run: npx linkinator --config ./linkinator.config.json  readme.md --markdown
