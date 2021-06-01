@@ -41,7 +41,6 @@ Worthy sites for security testing
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - Ecommerce site for testing.
 - [Polymer Shop](https://shop.polymer-project.org/) - Ecommerce site.
-- [PHP Travels](https://phptravels.com/demo/) - Demo software that you can test drive and explore, with multiple login and feature options, including mobile apps.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 
 ## Performance Testing
