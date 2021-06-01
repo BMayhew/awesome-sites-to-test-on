@@ -34,6 +34,7 @@ Worthy sites for security testing
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
 - [Sunny Meadows Bed & Breakfast](https://automationintesting.online/) - A modern web app with react front end / api backend.
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/) - A collection of web application testing challenges.
+- [WebSocket Echo](http://www.websocket.org/echo.html) - A websocket demo page to explore how websockets work. 
 - [OrangeHRM](https://orangehrm-demo-6x.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
 - [Todo List W/Bugs](http://todolist.james.am/#/)
 - [Test Address Book](http://a.testaddressbook.com/) - Address book app to practice testing.
@@ -74,6 +75,7 @@ Worthy sites for security testing
 - [Rick and Morty API](https://rickandmortyapi.com/graphql)  - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
 - [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
+- [TempAPI](https://tempapi.proj.me/) - Create your own short lived custom API.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
