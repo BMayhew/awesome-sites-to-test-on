@@ -72,6 +72,7 @@ Worthy sites for security testing
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Rick and Morty API](https://rickandmortyapi.com/graphql)  - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
+- [Countries GraphQL](https://countries.trevorblades.com/) - Simple Graphql API to interact with country data - [docs](https://github.com/trevorblades/countries)
 - [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [TempAPI](https://tempapi.proj.me/) - Create your own short lived custom API.
