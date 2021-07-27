@@ -39,9 +39,10 @@ Worthy sites for security testing
 - [Todo List W/Bugs](http://todolist.james.am/#/)
 - [Test Address Book](http://a.testaddressbook.com/) - Address book app to practice testing.
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
-- [Presta Shop](https://demo.prestashop.com/#/en/front) - Ecommerce site for testing.
-- [Polymer Shop](https://shop.polymer-project.org/) - Ecommerce site.
+- [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
+- [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
+- [Demo OpenCart](https://demo.opencart.com/) - Demo of open source E-commerce site.
 
 ## Performance Testing
 
@@ -64,6 +65,7 @@ Worthy sites for security testing
 - [Automate Now Sandbox](https://automatenow.io/sandbox/) - Small single page site for practicing interactions with typical UI controls.
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
+- [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice
 
 ## API Testing
 
@@ -80,6 +82,7 @@ Worthy sites for security testing
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
+- [RestCountries.eu](https://restcountries.eu/) - An API with countries and their information.
 
 ## Contribute
 
