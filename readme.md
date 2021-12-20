@@ -22,7 +22,6 @@ Worthy sites for security testing
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
-- [hack.me](https://hack.me/) - Community based project with a collection of 'runnable' vulnerable web applications, code samples, and CMMS's online.
 - [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to practice cyber security skills through the brows der (free and paid options).
 
 ## Mobile Testing
@@ -38,7 +37,7 @@ Worthy sites for security testing
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
 - [Sunny Meadows Bed & Breakfast](https://automationintesting.online/) - A modern web app with react front end / api backend.
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/) - A collection of web application testing challenges.
-- [WebSocket Echo](http://www.websocket.org/echo.html) - A websocket demo page to explore how websockets work.
+- [WebSocket Echo](https://socketsbay.com/test-websockets) - A websocket demo page to explore how websockets work.
 - [OrangeHRM](https://orangehrm-demo-6x.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
 - [Todo List W/Bugs](http://todolist.james.am/#/)
 - [Test Address Book](http://a.testaddressbook.com/) - Address book app to practice testing.
@@ -59,14 +58,13 @@ Worthy sites for security testing
 - [QA Automation Practice](https://qa-automation-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
 - [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
-- [Demo QA](https://www.demoqa.com/)
 - [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
 - [Automation Practice](http://automationpractice.com/index.php) - Online shopping site.
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
 - [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
 - [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) -  Small example bank website written in Angular.
-- [Automate Now Sandbox](https://automatenow.io/sandbox/) - Small single page site for practicing interactions with typical UI controls.
+- [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice
@@ -87,7 +85,7 @@ Worthy sites for security testing
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
-- [RestCountries.eu](https://restcountries.eu/) - An API with countries and their information.
+- [RestCountries.com](https://restcountries.com/) - An API with countries and their information.
 
 ## Contribute
 

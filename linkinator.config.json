@@ -6,5 +6,5 @@
   "timeout": 0,
   "markdown": true,
   "directoryListing": true,
-  "skip": ["https://orangehrm-demo-6x.orangehrmlive.com/", "https://rickandmortyapi.com/graphql", "https://countries.trevorblades.com/"]
+  "skip": ["https://orangehrm-demo-6x.orangehrmlive.com/", "https://rickandmortyapi.com/graphql", "https://countries.trevorblades.com/", "https://www.linkedin.com/in/arjun-thakur-36144b205/"]
 }
