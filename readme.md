@@ -4,12 +4,15 @@
 
 ## Contents
 
-- [Security Testing](#security-testing)
-- [Mobile Testing](#mobile-testing)
-- [Web Testing](#web-testing)
-- [Performance Testing](#performance-testing)
-- [Test Automation](#test-automation)
-- [API Testing](#api-testing)
+- [Awesome Sites To Test On ![Awesome](https://awesome.re) | [![Actions Status](https://github.com/bmayhew/awesome-sites-to-test-on/workflows/Link%20Checker/badge.svg)](https://github.com/bmayhew/awesome-sites-to-test-on/actions)](#awesome-sites-to-test-on---)
+  - [Contents](#contents)
+  - [Security Testing](#security-testing)
+  - [Mobile Testing](#mobile-testing)
+  - [Web Testing](#web-testing)
+  - [Performance Testing](#performance-testing)
+  - [Test Automation](#test-automation)
+  - [API Testing](#api-testing)
+  - [Contribute](#contribute)
 
 ## Security Testing
 
@@ -29,6 +32,7 @@ Worthy sites for security testing
 
 ## Web Testing
 
+- [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Thinking Tester Contact List](https://thinking-tester-contact-list.herokuapp.com/) - Fresh web app with [API](https://documenter.getpostman.com/view/4012288/TzK2bEa8).
 - [Parking Calculator](https://www.shino.de/parkcalc/) - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
@@ -71,6 +75,7 @@ Worthy sites for security testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
+- [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Rick and Morty API](https://rickandmortyapi.com/graphql)  - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
