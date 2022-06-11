@@ -32,6 +32,8 @@ Worthy sites for security testing
 ## Web Testing
 
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
+- [UI Testing Playground](http://uitestingplayground.com)
+- [Test Automation Practice](https://testautomationpractice.blogspot.com/)
 - [Thinking Tester Contact List](https://thinking-tester-contact-list.herokuapp.com/) - Fresh web app with [API](https://documenter.getpostman.com/view/4012288/TzK2bEa8).
 - [Parking Calculator](https://www.shino.de/parkcalc/) - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
@@ -46,6 +48,7 @@ Worthy sites for security testing
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 - [Demo OpenCart](https://demo.opencart.com/) - Demo of open source E-commerce site.
+- [XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 
 ## Performance Testing
 
@@ -90,3 +93,4 @@ Worthy sites for security testing
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
