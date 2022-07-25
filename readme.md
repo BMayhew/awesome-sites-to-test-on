@@ -23,6 +23,7 @@ Worthy sites for security testing
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
 - [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to practice cyber security skills through the brows der (free and paid options).
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
+- [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 
 ## Mobile Testing
 
