@@ -70,7 +70,8 @@ Worthy sites for security testing
 - [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
-- [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice
+- [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
+- [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
 
 ## API Testing
 
