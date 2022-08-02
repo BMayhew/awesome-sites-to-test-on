@@ -58,7 +58,7 @@ Worthy sites for security testing
 
 ## Test Automation
 
-- [QA Automation Practice](https://qa-automation-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
+- [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
 - [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
