@@ -59,7 +59,7 @@ Worthy sites for security testing
 
 ## Test Automation
 
-- [QA Automation Practice](https://qa-automation-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
+- [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
 - [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
@@ -74,6 +74,7 @@ Worthy sites for security testing
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
 - [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 
 ## API Testing
 
@@ -92,6 +93,7 @@ Worthy sites for security testing
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
 - [RestCountries.com](https://restcountries.com/) - An API with countries and their information.
+- [ServeRest.dev](https://serverest.dev) - REST API that simulates a virtual store in order to serve as material for API testing studies.
 
 ## Contribute
 
