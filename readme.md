@@ -72,6 +72,7 @@ Worthy sites for security testing
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
+- [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 
 ## API Testing
 
@@ -90,6 +91,7 @@ Worthy sites for security testing
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
 - [RestCountries.com](https://restcountries.com/) - An API with countries and their information.
+- [ServeRest.dev](https://serverest.dev) - REST API that simulates a virtual store in order to serve as material for API testing studies.
 
 ## Contribute
 
