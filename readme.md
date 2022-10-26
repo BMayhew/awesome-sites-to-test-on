@@ -33,6 +33,7 @@ Worthy sites for security testing
 ## Web Testing
 
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
+- [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
 - [UI Testing Playground](http://uitestingplayground.com)
 - [Test Automation Practice](https://testautomationpractice.blogspot.com/)
 - [Thinking Tester Contact List](https://thinking-tester-contact-list.herokuapp.com/) - Fresh web app with [API](https://documenter.getpostman.com/view/4012288/TzK2bEa8).
@@ -72,6 +73,7 @@ Worthy sites for security testing
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
+- [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 
 ## API Testing
@@ -96,4 +98,3 @@ Worthy sites for security testing
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
