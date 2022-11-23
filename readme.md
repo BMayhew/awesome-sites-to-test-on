@@ -21,7 +21,9 @@ Worthy sites for security testing
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
-- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to practice cyber security skills through the brows der (free and paid options).
+- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to 
+
+cyber security skills through the brows der (free and paid options).
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 
@@ -61,10 +63,9 @@ Worthy sites for security testing
 
 - [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
 - [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
-- [Practice Software Testing](https://practicesoftwaretesting.com/)
+- [Practice Software Testing](https://practicesoftwaretesting.com/) - Demo site for checkout experience.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
-- [Practice Software Testing](https://practicesoftwaretesting.com/)
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
 - [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
@@ -76,7 +77,7 @@ Worthy sites for security testing
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
 - [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
-- [Locator Game](https://testsmith-io.github.io/locator-game/)
+- [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 
 ## API Testing
 
