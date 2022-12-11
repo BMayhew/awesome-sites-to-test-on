@@ -43,7 +43,6 @@ Worthy sites for security testing
 - [WebSocket Echo](https://socketsbay.com/test-websockets) - A websocket demo page to explore how websockets work.
 - [OrangeHRM](https://orangehrm-demo-6x.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
 - [Todo List W/Bugs](http://todolist.james.am/#/)
-- [Test Address Book](http://a.testaddressbook.com/) - Address book app to practice testing.
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
