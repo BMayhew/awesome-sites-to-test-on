@@ -21,9 +21,7 @@ Worthy sites for security testing
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
-- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to 
-
-cyber security skills through the brows der (free and paid options).
+- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 
@@ -70,6 +68,7 @@ cyber security skills through the brows der (free and paid options).
 - [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
+- [Lambdatest's Selenium Playground](https://www.lambdatest.com/selenium-playground/)
 - [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
 - [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) -  Small example bank website written in Angular.
 - [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
