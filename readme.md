@@ -22,6 +22,7 @@ Worthy sites for security testing
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
 - [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
+- [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 
@@ -79,6 +80,7 @@ Worthy sites for security testing
 - [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
+- [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
 
 ## API Testing
 
