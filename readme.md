@@ -98,7 +98,6 @@ Worthy sites for security testing
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
-- [RestCountries.com](https://restcountries.com/) - An API with countries and their information.
 - [ServeRest.dev](https://serverest.dev) - REST API that simulates a virtual store in order to serve as material for API testing studies.
 - [FakeRestAPI](https://fakerestapi.azurewebsites.net/index.html)
 
