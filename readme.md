@@ -60,6 +60,7 @@ Worthy sites for security testing
 
 ## Test Automation
 
+- [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
   - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
