@@ -103,6 +103,9 @@ Worthy sites for security testing
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
 - [ServeRest.dev](https://serverest.dev) - REST API that simulates a virtual store in order to serve as material for API testing studies.
 - [FakeRestAPI](https://fakerestapi.azurewebsites.net/index.html)
+- [The Star Wars API](https://swapi.dev) - REST API with great [developer docs](https://swapi.dev/documentation#base)
+- [Chuck Norris API](https://api.chucknorris.io/)
+- [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
 
 ## Contribute
 
