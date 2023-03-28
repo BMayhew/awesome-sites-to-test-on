@@ -89,6 +89,7 @@ Worthy sites for security testing
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
+- [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
 - [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
@@ -99,6 +100,7 @@ Worthy sites for security testing
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [TempAPI](https://tempapi.proj.me/) - Create your own short lived custom API.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
+- [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service. 
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
