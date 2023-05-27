@@ -50,6 +50,7 @@ Worthy sites for security testing
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 - [Demo OpenCart](https://demo.opencart.com/) - Demo of open source E-commerce site.
 - [XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
+- [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
 
 ## Performance Testing
 
@@ -57,17 +58,18 @@ Worthy sites for security testing
 - [Simple Travel Agency](https://blazedemo.com/index.php) - BlazeMeter demo site for performance testing.
 - [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
 - [Computer Database](https://computer-database.gatling.io/computers) - Simple site with minimal inputs to use in performance testing.
+- [The k6 Fake eShop](http://ecommerce.test.k6.io/)
 
 ## Test Automation
 
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
 - [Commit Quality - Practice Site](https://commitquality.com/) - Commit Quality has been creating High Quality Playwright Automation [Youtube Videos](https://www.youtube.com/@commitquality)
+- [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API and GraphQL endpoints for practicing.
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
   - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
 - [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
-- [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API endpoints for practicing.
 - [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
@@ -85,11 +87,15 @@ Worthy sites for security testing
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
-
+- [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
+- [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills.
+- [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
+- 
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
+- [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
 - [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
@@ -109,6 +115,7 @@ Worthy sites for security testing
 - [The Star Wars API](https://swapi.dev) - REST API with great [developer docs](https://swapi.dev/documentation#base)
 - [Chuck Norris API](https://api.chucknorris.io/)
 - [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
+- [Bored API](https://www.boredapi.com/) - API to find things to do when bored.
 
 ## Contribute
 
