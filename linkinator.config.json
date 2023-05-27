@@ -6,5 +6,13 @@
   "timeout": 0,
   "markdown": true,
   "directoryListing": true,
-  "skip": ["https://orangehrm-demo-6x.orangehrmlive.com/", "https://rickandmortyapi.com/graphql", "https://countries.trevorblades.com/", "https://www.linkedin.com/in/arjun-thakur-36144b205/", "http://damnvulnerableiosapp.com/"]
+  "skip": [
+    "https://orangehrm-demo-6x.orangehrmlive.com/",
+    "https://rickandmortyapi.com/graphql",
+    "https://countries.trevorblades.com/",
+    "https://www.linkedin.com/in/arjun-thakur-36144b205/",
+    "http://damnvulnerableiosapp.com/",
+    "https://twitter.com/TheWebTester",
+    "https://twitter.com/TheWebTester/status/1593906285300400128"
+  ]
 }
