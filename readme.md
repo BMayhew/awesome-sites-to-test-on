@@ -28,13 +28,14 @@ Worthy sites for security testing
 
 ## Mobile Testing
 
-- [(DVIA) Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/) -  DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
+- [(DVIA) Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/) - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice.
 
 ## Web Testing
 
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
+- [Academy Bugs](https://academybugs.com/find-bugs/) - Explore a practice test site that has 25 real bugs planted inside.
 - [UI Testing Playground](http://uitestingplayground.com)
 - [Test Automation Practice](https://testautomationpractice.blogspot.com/)
 - [Thinking Tester Contact List](https://thinking-tester-contact-list.herokuapp.com/) - Fresh web app with [API](https://documenter.getpostman.com/view/4012288/TzK2bEa8).
@@ -77,7 +78,7 @@ Worthy sites for security testing
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
 - [Lambdatest's Selenium Playground](https://www.lambdatest.com/selenium-playground/)
 - [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
-- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) -  Small example bank website written in Angular.
+- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) - Small example bank website written in Angular.
 - [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
@@ -90,7 +91,8 @@ Worthy sites for security testing
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
 - [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills.
 - [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
-- 
+-
+
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
@@ -100,13 +102,13 @@ Worthy sites for security testing
 - [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
-- [Rick and Morty API](https://rickandmortyapi.com/graphql)  - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
+- [Rick and Morty API](https://rickandmortyapi.com/graphql) - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
 - [Countries GraphQL](https://countries.trevorblades.com/) - Simple Graphql API to interact with country data - [docs](https://github.com/trevorblades/countries)
 - [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [TempAPI](https://tempapi.proj.me/) - Create your own short lived custom API.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
-- [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service. 
+- [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service.
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
 - [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
