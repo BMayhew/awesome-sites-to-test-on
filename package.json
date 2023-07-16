@@ -1,0 +1,14 @@
+{
+  "name": "awesome-sites-to-test-on",
+  "version": "1.0.0",
+  "description": "> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Actions Status](https://github.com/bmayhew/awesome-sites-to-test-on/workflows/Link%20Checker/badge.svg)](https://github.com/bmayhew/awesome-sites-to-test-on/actions)",
+  "main": "index.js",
+  "scripts": {
+    "link-checker": "npx linkinator --config ./linkinator.config.json  readme.md --markdown"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "linkinator": "^5.0.1"
+  }
+}
