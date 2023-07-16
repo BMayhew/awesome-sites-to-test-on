@@ -34,6 +34,7 @@ Worthy sites for security testing
 ## Web Testing
 
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
+- [Test Pages by Evil Tester](https://testpages.herokuapp.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
 - [Academy Bugs](https://academybugs.com/find-bugs/) - Explore a practice test site that has 25 real bugs planted inside.
 - [UI Testing Playground](http://uitestingplayground.com)
@@ -50,8 +51,9 @@ Worthy sites for security testing
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 - [Demo OpenCart](https://demo.opencart.com/) - Demo of open source E-commerce site.
-- [XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
+- [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
+- [Medium Clone Apps](https://codebase.show/projects/realworld) - List of the same app built across many different programming languages and frameworks.
 
 ## Performance Testing
 
@@ -60,6 +62,7 @@ Worthy sites for security testing
 - [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
 - [Computer Database](https://computer-database.gatling.io/computers) - Simple site with minimal inputs to use in performance testing.
 - [The k6 Fake eShop](http://ecommerce.test.k6.io/)
+- [BlazeMeter Demo Store](https://www.demoblaze.com/)
 
 ## Test Automation
 
@@ -91,7 +94,9 @@ Worthy sites for security testing
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
 - [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills.
 - [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
--
+- [Hands-On Selenium WebDriver](https://bonigarcia.dev/selenium-webdriver-java/) - Lots of different types of web elements to interact with.
+- [Demo QA](https://demoqa.com/) - Elements, Forms, Widgets, Interactions, and Bookstore Application
+- [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
 
 ## API Testing
 
@@ -118,6 +123,7 @@ Worthy sites for security testing
 - [Chuck Norris API](https://api.chucknorris.io/)
 - [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
 - [Bored API](https://www.boredapi.com/) - API to find things to do when bored.
+- [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 
 ## Contribute
 
