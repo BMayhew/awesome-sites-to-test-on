@@ -36,6 +36,7 @@ Worthy sites for security testing
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Test Pages by Evil Tester](https://testpages.herokuapp.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
+- [Coffee Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing.
 - [Academy Bugs](https://academybugs.com/find-bugs/) - Explore a practice test site that has 25 real bugs planted inside.
 - [UI Testing Playground](http://uitestingplayground.com)
 - [Test Automation Practice](https://testautomationpractice.blogspot.com/)
@@ -101,6 +102,7 @@ Worthy sites for security testing
 - [Hands-On Selenium WebDriver](https://bonigarcia.dev/selenium-webdriver-java/) - Lots of different types of web elements to interact with.
 - [Demo QA](https://demoqa.com/) - Elements, Forms, Widgets, Interactions, and Bookstore Application
 - [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
+- [GitHub users Search (API backend)](https://gh-users-search.netlify.app/) - GitHub users search with API backend to practice automation skills.
 
 ## API Testing
 
