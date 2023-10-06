@@ -82,7 +82,6 @@ Worthy sites for security testing
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
 - [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
-- [Shop Demo QA](https://shop.demoqa.com/) - Online shopping site with wishlist and cart.
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
 - [Lambdatest's Selenium Playground](https://www.lambdatest.com/selenium-playground/)
