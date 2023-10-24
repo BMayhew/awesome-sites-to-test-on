@@ -34,7 +34,7 @@ Worthy sites for security testing
 ## Web Testing
 
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
-- [Test Pages by Evil Tester](https://testpages.herokuapp.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
+- [Test Pages by Evil Tester](https://testpages.eviltester.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
 - [Coffee Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing.
 - [Academy Bugs](https://academybugs.com/find-bugs/) - Explore a practice test site that has 25 real bugs planted inside.
@@ -88,6 +88,7 @@ Worthy sites for security testing
 - [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
 - [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) - Small example bank website written in Angular.
 - [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
+- [NearForm Testing Playground](https://nearform.github.io/testing-playground/)
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
@@ -97,12 +98,13 @@ Worthy sites for security testing
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
-- [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills.
+- [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills. (cert is expired but site still works)
 - [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
 - [Hands-On Selenium WebDriver](https://bonigarcia.dev/selenium-webdriver-java/) - Lots of different types of web elements to interact with.
 - [Demo QA](https://demoqa.com/) - Elements, Forms, Widgets, Interactions, and Bookstore Application
 - [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
 - [GitHub users Search (API backend)](https://gh-users-search.netlify.app/) - GitHub users search with API backend to practice automation skills.
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ## API Testing
 
@@ -130,6 +132,7 @@ Worthy sites for security testing
 - [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
 - [Bored API](https://www.boredapi.com/) - API to find things to do when bored.
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
+- [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 
 ## Contribute
 
