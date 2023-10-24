@@ -98,7 +98,7 @@ Worthy sites for security testing
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
-- [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills.
+- [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills. (cert is expired but site still works)
 - [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
 - [Hands-On Selenium WebDriver](https://bonigarcia.dev/selenium-webdriver-java/) - Lots of different types of web elements to interact with.
 - [Demo QA](https://demoqa.com/) - Elements, Forms, Widgets, Interactions, and Bookstore Application
