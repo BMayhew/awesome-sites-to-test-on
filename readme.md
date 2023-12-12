@@ -52,6 +52,7 @@ Worthy sites for security testing
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 - [Demo OpenCart](https://demo.opencart.com/) - Demo of open source E-commerce site.
+- [Magento eCommerce](https://magento.softwaretestingboard.com) - Another E-commerce site.
 - [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
 - [Medium Clone Apps](https://codebase.show/projects/realworld) - List of the same app built across many different programming languages and frameworks.
