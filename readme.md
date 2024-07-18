@@ -2,6 +2,8 @@
 
 > [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Actions Status](https://github.com/bmayhew/awesome-sites-to-test-on/workflows/Link%20Checker/badge.svg)](https://github.com/bmayhew/awesome-sites-to-test-on/actions)
 
+![Awesome Sites To Test On](awesomesitestoteston.png)
+ 
 > A curated list of sites to practice testing on
 
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
@@ -18,6 +20,7 @@
 Worthy sites for security testing
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Modern Web app that is filled with hacking challenges and vulnerabilities, can be run locally via docker.
+- [Gin and Juice Shop](https://ginandjuice.shop/) - A modern web app that is filled with hacking challenges and vulnerabilities by PortSwigger
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
@@ -44,14 +47,12 @@ Worthy sites for security testing
 - [Parking Calculator](https://www.shino.de/parkcalc/) - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
 - [Sunny Meadows Bed & Breakfast](https://automationintesting.online/) - A modern web app with react front end / api backend.
-- [WebSocket Echo](https://socketsbay.com/test-websockets) - A websocket demo page to explore how websockets work.
 - [OrangeHRM](https://orangehrm-demo-6x.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
 - [Todo List W/Bugs](http://todolist.james.am/#/)
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
-- [Demo OpenCart](https://demo.opencart.com/) - Demo of open source E-commerce site.
 - [Magento eCommerce](https://magento.softwaretestingboard.com) - Another E-commerce site.
 - [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
@@ -64,17 +65,13 @@ Worthy sites for security testing
 - [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
 - [Computer Database](https://computer-database.gatling.io/computers) - Simple site with minimal inputs to use in performance testing.
 - [The k6 Fake eShop](http://ecommerce.test.k6.io/)
-- [QuickPizza](https://github.com/grafana/quickpizza) - A GitHub repository with k6 tests for learning and evaluating the performance of the [QuickPizza website](https://pizza.grafana.fun/). 
+- [QuickPizza](https://github.com/grafana/quickpizza) - A GitHub repository with k6 tests for learning and evaluating performance.
 - [BlazeMeter Demo Store](https://www.demoblaze.com/)
 
 ## Test Automation
 
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
 - [QA Playground](https://qaplayground.dev/) - A handy place for QA engineers to focus their test automation frameworks on specific parts instead of the entire web application. by [Marko Simic](https://www.linkedin.com/in/marko-simic-whitey/)
-- [Contoso Traders](https://github.com/microsoft/contosotraders-cloudtesting) - Github Repo The Contoso Traders app is a sample application showcasing Playwright, Azure Load Testing, Azure Chaos Studio.
-  - [Contoso UI](https://cloudtesting.contosotraders.com/)
-  - [Contoso Carts API](https://contoso-traders-cartsctprd.bluestone-748d2276.eastus.azurecontainerapps.io/swagger/index.html)
-  - [Contoso Products API](https://contoso-traders-productsctprd.eastus.cloudapp.azure.com/swagger/index.html)
 - [Commit Quality - Practice Site](https://commitquality.com/) - Commit Quality has been creating High Quality Playwright Automation [Youtube Videos](https://www.youtube.com/@commitquality)
 - [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API and GraphQL endpoints for practicing.
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
@@ -121,7 +118,6 @@ Worthy sites for security testing
 - [Countries GraphQL](https://countries.trevorblades.com/) - Simple Graphql API to interact with country data - [docs](https://github.com/trevorblades/countries)
 - [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
-- [TempAPI](https://tempapi.proj.me/) - Create your own short lived custom API.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
 - [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service.
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
@@ -132,7 +128,6 @@ Worthy sites for security testing
 - [The Star Wars API](https://swapi.dev) - REST API with great [developer docs](https://swapi.dev/documentation#base)
 - [Chuck Norris API](https://api.chucknorris.io/)
 - [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
-- [Bored API](https://www.boredapi.com/) - API to find things to do when bored.
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 
