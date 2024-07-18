@@ -2,6 +2,8 @@
 
 > [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Actions Status](https://github.com/bmayhew/awesome-sites-to-test-on/workflows/Link%20Checker/badge.svg)](https://github.com/bmayhew/awesome-sites-to-test-on/actions)
 
+![Awesome Sites To Test On](awesomesitestoteston.png)
+ 
 > A curated list of sites to practice testing on
 
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
@@ -18,6 +20,7 @@
 Worthy sites for security testing
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Modern Web app that is filled with hacking challenges and vulnerabilities, can be run locally via docker.
+- [Gin and Juice Shop](https://ginandjuice.shop/) - A modern web app that is filled with hacking challenges and vulnerabilities by PortSwigger
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
