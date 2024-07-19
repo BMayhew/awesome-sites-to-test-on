@@ -28,6 +28,7 @@ Worthy sites for security testing
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
+- [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - This is a list of other vulnerable web applications that can be used for testing.
 
 ## Mobile Testing
 
@@ -104,6 +105,7 @@ Worthy sites for security testing
 - [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
 - [GitHub users Search (API backend)](https://gh-users-search.netlify.app/) - GitHub users search with API backend to practice automation skills.
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+- [React Shopping Cart](https://react-shopping-cart-67954.firebaseapp.com/) Modern E-commerce Site - Github [repo](https://github.com/jeffersonRibeiro/react-shopping-cart)
 
 ## API Testing
 
