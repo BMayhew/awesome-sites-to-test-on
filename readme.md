@@ -29,6 +29,7 @@ Worthy sites for security testing
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 - [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - This is a list of other vulnerable web applications that can be used for testing.
+- [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 
 ## Mobile Testing
 
@@ -58,6 +59,8 @@ Worthy sites for security testing
 - [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
 - [Medium Clone Apps](https://codebase.show/projects/realworld) - List of the same app built across many different programming languages and frameworks.
+- [Todo List With Bugs](http://todolist.james.am/) - A simple todo list with bugs to find. [github repo](https://github.com/TheJambo/ToDoInterviewTest)
+- [QA Training Simulator](https://bugeater.web.app/) - Useful site to practice testing skills with a list of challenges.
 
 ## Performance Testing
 
@@ -106,6 +109,10 @@ Worthy sites for security testing
 - [GitHub users Search (API backend)](https://gh-users-search.netlify.app/) - GitHub users search with API backend to practice automation skills.
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 - [React Shopping Cart](https://react-shopping-cart-67954.firebaseapp.com/) Modern E-commerce Site - Github [repo](https://github.com/jeffersonRibeiro/react-shopping-cart)
+- [Boozang Lab](https://thelab.boozang.com/) - Website to practice test automation skills.
+- [SAP UI5 Demo Apps](https://ui5.sap.com/#/demoapps) - Demo applications built with SAP.
+- [AutomateNow Practice Website](https://practice-automation.com/) - Page with different types of interactions to practice automation.
+- [Iframe Search](https://eviltester.github.io/TestingApp/apps/iframe-search/iframe-search.html) - for Iframe testing.
 
 ## API Testing
 
@@ -132,6 +139,7 @@ Worthy sites for security testing
 - [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
+- [Open Movie Database API](http://www.omdbapi.com/) - API for movie data.
 
 ## Contribute
 
