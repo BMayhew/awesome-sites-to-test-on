@@ -113,6 +113,7 @@ Worthy sites for security testing
 - [SAP UI5 Demo Apps](https://ui5.sap.com/#/demoapps) - Demo applications built with SAP.
 - [AutomateNow Practice Website](https://practice-automation.com/) - Page with different types of interactions to practice automation.
 - [Iframe Search](https://eviltester.github.io/TestingApp/apps/iframe-search/iframe-search.html) - for Iframe testing.
+- [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
 
 ## API Testing
 
