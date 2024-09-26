@@ -1,9 +1,9 @@
 {
   "format": "text",
   "recurse": true,
-  "silent": true,
+  "silent": false,
   "concurrency": 100,
-  "timeout": 0,
+  "timeout": 10000,
   "markdown": true,
   "directoryListing": true,
   "skip": [

@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "linkinator": "^5.0.1"
+    "linkinator": "6.1.1"
   }
 }

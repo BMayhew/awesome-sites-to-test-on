@@ -68,7 +68,6 @@ Worthy sites for security testing
 - [Simple Travel Agency](https://blazedemo.com/index.php) - BlazeMeter demo site for performance testing.
 - [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
 - [Computer Database](https://computer-database.gatling.io/computers) - Simple site with minimal inputs to use in performance testing.
-- [The k6 Fake eShop](http://ecommerce.test.k6.io/)
 - [QuickPizza](https://github.com/grafana/quickpizza) - A GitHub repository with k6 tests for learning and evaluating performance.
 - [BlazeMeter Demo Store](https://www.demoblaze.com/)
 
