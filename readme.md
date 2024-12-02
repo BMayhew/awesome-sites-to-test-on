@@ -83,7 +83,6 @@ Worthy sites for security testing
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
 - [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
-- [Selenium Testing Tasks](http://timvroom.com/selenium/playground/) - An interactive webpage with 17 testing tasks to practice test automation skills.
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
@@ -131,7 +130,6 @@ Worthy sites for security testing
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
 - [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service.
 - [Pokemon API](https://pokeapi.co/) - Restful API useful for exploring or adding automated checks against.
-- [Formula One API](https://ergast.com/mrd/) - API provides data for the Formula One series since 1950.
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
 - [ServeRest.dev](https://serverest.dev) - REST API that simulates a virtual store in order to serve as material for API testing studies.
 - [FakeRestAPI](https://fakerestapi.azurewebsites.net/index.html)
