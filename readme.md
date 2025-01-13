@@ -121,6 +121,7 @@ Worthy sites for security testing
 - [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
 - [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
+- [PlayPI](https://github.com/abhivaikar/PlayPI)- A simple and intuitive playground for restful, graphQL, gRPC and websocket APIs to learn API testing. Need to run it locally.
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Rick and Morty API](https://rickandmortyapi.com/graphql) - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
@@ -133,7 +134,6 @@ Worthy sites for security testing
 - [Marvel API](https://developer.marvel.com/docs) - API with access to Marvel characters and comics, you will need to sign up for an API key.
 - [ServeRest.dev](https://serverest.dev) - REST API that simulates a virtual store in order to serve as material for API testing studies.
 - [FakeRestAPI](https://fakerestapi.azurewebsites.net/index.html)
-- [The Star Wars API](https://swapi.dev) - REST API with great [developer docs](https://swapi.dev/documentation#base)
 - [Chuck Norris API](https://api.chucknorris.io/)
 - [MultiPlayer Space Traders REST API Game](https://spacetraders.io/)
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
