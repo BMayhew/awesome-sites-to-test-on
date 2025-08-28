@@ -19,6 +19,7 @@
 
 Worthy sites for security testing
 
+- [LabEx Cybersecurity Labs](https://labex.io/learn/cybersecurity) - Interactive hands-on cybersecurity labs covering penetration testing, web vulnerabilities, network security, and ethical hacking with real-world scenarios and step-by-step guidance
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Modern Web app that is filled with hacking challenges and vulnerabilities, can be run locally via docker.
 - [Gin and Juice Shop](https://ginandjuice.shop/) - A modern web app that is filled with hacking challenges and vulnerabilities by PortSwigger
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
