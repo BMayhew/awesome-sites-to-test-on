@@ -56,7 +56,6 @@ Worthy sites for security testing
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
-- [Magento eCommerce](https://magento.softwaretestingboard.com) - Another E-commerce site.
 - [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
 - [Medium Clone Apps](https://codebase.show/projects/realworld) - List of the same app built across many different programming languages and frameworks.
@@ -69,7 +68,6 @@ Worthy sites for security testing
 - [DemoBlaze](https://demoblaze.com/) - See About Us for a Walk through of the site and how to automate against it.
 - [Simple Travel Agency](https://blazedemo.com/index.php) - BlazeMeter demo site for performance testing.
 - [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
-- [Computer Database](https://computer-database.gatling.io/computers) - Simple site with minimal inputs to use in performance testing.
 - [QuickPizza](https://github.com/grafana/quickpizza) - A GitHub repository with k6 tests for learning and evaluating performance.
 - [BlazeMeter Demo Store](https://www.demoblaze.com/)
 
