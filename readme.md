@@ -50,7 +50,7 @@ Worthy sites for security testing
 - [Parking Calculator](https://www.shino.de/parkcalc/) - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
 - [Sunny Meadows Bed & Breakfast](https://automationintesting.online/) - A modern web app with react front end / api backend.
-- [OrangeHRM](https://orangehrm-demo-6x.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
+- [OrangeHRM](https://opensource-demo.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
 - [Todo List W/Bugs](http://todolist.james.am/#/)
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
