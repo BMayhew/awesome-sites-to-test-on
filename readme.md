@@ -116,6 +116,7 @@ Worthy sites for security testing
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
+- - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
 - [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
@@ -125,7 +126,6 @@ Worthy sites for security testing
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Rick and Morty API](https://rickandmortyapi.com/graphql) - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
 - [Countries GraphQL](https://countries.trevorblades.com/) - Simple Graphql API to interact with country data - [docs](https://github.com/trevorblades/countries)
-- [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
 - [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service.
@@ -138,7 +138,7 @@ Worthy sites for security testing
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 - [Open Movie Database API](http://www.omdbapi.com/) - API for movie data.
-- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
 
 ## Contribute
 
