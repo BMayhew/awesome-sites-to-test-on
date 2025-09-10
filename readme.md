@@ -138,6 +138,7 @@ Worthy sites for security testing
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 - [Open Movie Database API](http://www.omdbapi.com/) - API for movie data.
+- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 
 ## Contribute
 
