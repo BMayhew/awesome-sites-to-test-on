@@ -1,0 +1,127 @@
+name: Generate Changelog
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "readme.md"
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Fetch last 2 commits to compare
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Extract changes
+        id: extract
+        run: |
+          # Get the diff of readme.md from the previous commit
+          git diff HEAD^ HEAD -- readme.md > diff.txt
+
+          # Extract added lines (lines starting with +)
+          echo "## Added Links" > changes.md
+          grep "^+.*\[.*\](http" diff.txt | sed 's/^+//' | grep -v "^+++" || echo "No new links added" >> changes.md
+
+          # Extract removed lines (lines starting with -)
+          echo "" >> changes.md
+          echo "## Removed Links" >> changes.md
+          grep "^-.*\[.*\](http" diff.txt | sed 's/^-//' | grep -v "^---" || echo "No links removed" >> changes.md
+
+          # Store for use in next steps
+          cat changes.md
+
+      - name: Update CHANGELOG.md
+        run: |
+          # Get current date
+          CURRENT_DATE=$(date +%Y-%m-%d)
+
+          # Check if there are actual changes
+          if grep -q "http" diff.txt; then
+            # Create temp file with new entry
+            echo "" > temp_changelog.md
+            echo "## [$CURRENT_DATE]" >> temp_changelog.md
+            echo "" >> temp_changelog.md
+            
+            # Add new links
+            echo "### Added" >> temp_changelog.md
+            grep "^+.*\[.*\](http" diff.txt | sed 's/^+//' | grep -v "^+++" | while read -r line; do
+              echo "$line" >> temp_changelog.md
+            done
+            
+            # Add removed links
+            if grep -q "^-.*\[.*\](http" diff.txt; then
+              echo "" >> temp_changelog.md
+              echo "### Removed" >> temp_changelog.md
+              grep "^-.*\[.*\](http" diff.txt | sed 's/^-//' | grep -v "^---" | while read -r line; do
+                echo "$line" >> temp_changelog.md
+              done
+            fi
+            
+            echo "" >> temp_changelog.md
+            echo "---" >> temp_changelog.md
+            
+            # Insert new entry after the [Unreleased] section
+            sed -i '/^---$/r temp_changelog.md' CHANGELOG.md
+            
+            # Configure git
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            
+            # Commit and push if there are changes
+            git add CHANGELOG.md
+            git commit -m "Update changelog for $CURRENT_DATE" || echo "No changes to commit"
+            git push || echo "No changes to push"
+          else
+            echo "No link changes detected"
+          fi
+
+      - name: Create Social Media Post
+        run: |
+          CURRENT_DATE=$(date +%Y-%m-%d)
+
+          # Create a formatted post for social media
+          echo "Awesome Sites to Test On - Updates for $CURRENT_DATE" > social-post.md
+          echo "" >> social-post.md
+
+          # Check for added links
+          if grep -q "^+.*\[.*\](http" diff.txt; then
+            echo "New Testing Sites Added:" >> social-post.md
+            grep "^+.*\[.*\](http" diff.txt | sed 's/^+//' | grep -v "^+++" | head -5 | while read -r line; do
+              # Extract just the name and URL for social media
+              NAME=$(echo "$line" | sed -n 's/.*\[\(.*\)\](.*/\1/p')
+              URL=$(echo "$line" | sed -n 's/.*](\(.*\)).*/\1/p' | cut -d')' -f1)
+              echo "• $NAME" >> social-post.md
+              echo "  $URL" >> social-post.md
+            done
+          fi
+
+          echo "" >> social-post.md
+          echo "Check out the full list: https://github.com/${{ github.repository }}" >> social-post.md
+          echo "" >> social-post.md
+          echo "#testing #qa #automation #softwaretesting" >> social-post.md
+
+          cat social-post.md
+
+          # Save as artifact
+          mkdir -p social-posts
+          cp social-post.md "social-posts/post-$CURRENT_DATE.md"
+
+      - name: Upload Social Media Post
+        uses: actions/upload-artifact@v4
+        with:
+          name: social-media-post
+          path: social-posts/
+          retention-days: 90
