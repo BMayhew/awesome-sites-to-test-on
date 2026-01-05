@@ -119,6 +119,75 @@ jobs:
           mkdir -p social-posts
           cp social-post.md "social-posts/post-$CURRENT_DATE.md"
 
+      - name: Send to Slack
+        run: |
+          CURRENT_DATE=$(date +%Y-%m-%d)
+
+          # Read the social post content
+          POST_CONTENT=$(cat social-post.md)
+
+          # Count added and removed sites
+          ADDED_COUNT=$(grep -c "^+.*\[.*\](http" diff.txt 2>/dev/null || echo 0)
+          REMOVED_COUNT=$(grep -c "^-.*\[.*\](http" diff.txt 2>/dev/null || echo 0)
+
+          # Create JSON payload for Slack API
+          PAYLOAD=$(cat <<EOF
+          {
+            "channel": "${{ secrets.SLACK_CHANNEL_ID }}",
+            "blocks": [
+              {
+                "type": "header",
+                "text": {
+                  "type": "plain_text",
+                  "text": "Awesome Sites Updates - $CURRENT_DATE"
+                }
+              },
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "$(echo "$POST_CONTENT" | sed 's/"/\\"/g' | sed ':a;N;$!ba;s/\n/\\n/g')"
+                }
+              },
+              {
+                "type": "section",
+                "fields": [
+                  {
+                    "type": "mrkdwn",
+                    "text": "*Added:*\n$ADDED_COUNT site(s)"
+                  },
+                  {
+                    "type": "mrkdwn",
+                    "text": "*Removed:*\n$REMOVED_COUNT site(s)"
+                  }
+                ]
+              },
+              {
+                "type": "actions",
+                "elements": [
+                  {
+                    "type": "button",
+                    "text": {
+                      "type": "plain_text",
+                      "text": "View Repository"
+                    },
+                    "url": "https://github.com/${{ github.repository }}"
+                  }
+                ]
+              }
+            ]
+          }
+          EOF
+          )
+
+          # Send to Slack
+          curl -X POST -H 'Content-type: application/json' \
+            --data "$PAYLOAD" \
+            -H "Authorization: Bearer ${{ secrets.SLACK_BOT_TOKEN }}" \
+            https://slack.com/api/chat.postMessage
+
+          echo "Slack message sent successfully"
+
       - name: Upload Social Media Post
         uses: actions/upload-artifact@v4
         with:
