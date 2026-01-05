@@ -73,7 +73,7 @@ Worthy sites for security testing
 
 ## Test Automation
 
-- [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
+- [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform).
 - [QA Playground](https://qaplayground.dev/) - A handy place for QA engineers to focus their test automation frameworks on specific parts instead of the entire web application. by [Marko Simic](https://www.linkedin.com/in/marko-simic-whitey/)
 - [Testing Pages Collection](https://testers.ai/testing/) - AI powered test automation practice site with pre-built test cases.
 - [Candy Mapper](https://www.candymapper.net/) - A web app to practice test automation skills.
@@ -96,7 +96,7 @@ Worthy sites for security testing
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
-- [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
