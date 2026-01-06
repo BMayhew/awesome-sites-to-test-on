@@ -118,7 +118,8 @@ Worthy sites for security testing
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
-- - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+- [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
+- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
 - [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
