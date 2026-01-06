@@ -15,6 +15,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-01-06]
+
+### Added
+- [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
+- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
+### Removed
+- - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
+---
+
 ## [2026-01-05]
 
 ### Added
@@ -24,6 +35,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
 - [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-01-06]
+
+### Added
+- [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
+- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
+### Removed
+- - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 
 ---
 
@@ -35,6 +57,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-01-06]
+
+### Added
+- [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
+- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
+### Removed
+- - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
+---
+
 ## [2026-01-05]
 
 ### Added
@@ -44,6 +77,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
 - [Online Boutique](https://onlineboutique.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-01-06]
+
+### Added
+- [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
+- [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
+
+### Removed
+- - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 
 ---
 
