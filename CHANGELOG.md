@@ -18,8 +18,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -37,8 +57,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -57,8 +97,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -76,8 +136,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -92,8 +172,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -111,8 +211,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -131,8 +251,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
@@ -150,8 +290,28 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ## [2026-01-06]
 
 ### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-01-06]
+
+### Added
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
+
+---
+
+## [2026-01-06]
+
+### Added
+[![Howdy QA logo](howdy-logo.png)](https://howdyqa.com/)
+
+### Removed
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
 
 ---
 
