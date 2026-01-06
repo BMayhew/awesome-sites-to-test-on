@@ -7,6 +7,7 @@
 > A curated list of sites to practice testing on
 
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
+  - [Sponsored By](#sponsored-by)
   - [Security Testing](#security-testing)
   - [Mobile Testing](#mobile-testing)
   - [Web Testing](#web-testing)
@@ -14,6 +15,12 @@
   - [Test Automation](#test-automation)
   - [API Testing](#api-testing)
   - [Contribute](#contribute)
+
+## Sponsored By
+
+[![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focused test automation consultancy that helps teams ship reliable software faster.
 
 ## Security Testing
 
