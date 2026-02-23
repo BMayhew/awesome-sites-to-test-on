@@ -15,6 +15,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -22,6 +29,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -33,6 +47,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -40,6 +61,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -54,6 +82,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -61,6 +96,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -72,6 +114,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -79,6 +128,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -94,6 +150,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -101,6 +164,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -112,6 +182,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -119,6 +196,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -133,6 +217,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -140,6 +231,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -151,6 +249,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -158,6 +263,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -169,6 +281,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -176,6 +295,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -187,6 +313,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -194,6 +327,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -208,6 +348,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -215,6 +362,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -226,6 +380,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -233,6 +394,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -248,6 +416,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -255,6 +430,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -266,6 +448,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -273,6 +462,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -287,6 +483,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -294,6 +497,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
@@ -305,6 +515,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
+
+---
+
 ## [2026-01-06]
 
 ### Added
@@ -312,6 +529,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ### Removed
 [![Howdy QA logo](https://howdyqa.com/assets/howdy-cropped-logo-DbE9o88h.png)](https://howdyqa.com/)
+
+---
+
+## [2026-02-23]
+
+### Added
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 
 ---
 
