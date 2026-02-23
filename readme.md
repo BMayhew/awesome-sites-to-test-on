@@ -62,6 +62,7 @@ Worthy sites for security testing
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
+- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 - [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
