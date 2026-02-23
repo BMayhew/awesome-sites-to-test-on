@@ -5,7 +5,7 @@ This repository now includes an automated changelog system that tracks when link
 ## 🎯 Features
 
 ### Automated Changelog
-- **Automatic Updates**: Every time you push changes to `readme.md` on the main branch, the changelog is automatically updated
+- **Automatic Updates**: Every time you push changes to `README.md` on the main branch, the changelog is automatically updated
 - **GitHub Action**: Runs automatically and commits the updated `CHANGELOG.md`
 - **Social Media Posts**: Generates ready-to-share social media posts as artifacts
 
@@ -17,7 +17,7 @@ This repository now includes an automated changelog system that tracks when link
 
 ### Automatic (Recommended)
 
-1. **Edit readme.md** and add or remove testing site links
+1. **Edit README.md** and add or remove testing site links
 2. **Commit and push** to the main branch
 3. **GitHub Action runs automatically** and:
    - Detects what links were added or removed
@@ -75,7 +75,7 @@ Check out the full list: https://github.com/BMayhew/awesome-sites-to-test-on
 ## 🔧 Configuration
 
 The system works out of the box with zero configuration! It automatically:
-- Detects markdown links in readme.md
+- Detects markdown links in README.md
 - Identifies additions and removals
 - Formats entries with proper dates
 - Generates hashtag-optimized social posts
@@ -103,7 +103,7 @@ Both scripts use ISO format (YYYY-MM-DD). Modify the date formatting in:
 ## 🚀 Getting Started
 
 1. **No setup needed!** The system is ready to use.
-2. Make changes to readme.md and push to main
+2. Make changes to README.md and push to main
 3. Check the Actions tab for your generated social media post
 4. Download and share on your favorite platforms!
 
@@ -117,7 +117,7 @@ Both scripts use ISO format (YYYY-MM-DD). Modify the date formatting in:
 ## 🤝 Contributing
 
 When contributing new testing sites:
-1. Add the link to the appropriate section in readme.md
+1. Add the link to the appropriate section in README.md
 2. Include a clear, concise description
 3. Push to main - the changelog updates automatically!
 4. Check the Actions tab to get your social media post

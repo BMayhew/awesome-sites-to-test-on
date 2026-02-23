@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "readme.md"
+      - "README.md"
 
 jobs:
   generate-changelog:
@@ -28,8 +28,8 @@ jobs:
       - name: Extract changes
         id: extract
         run: |
-          # Get the diff of readme.md from the previous commit
-          git diff HEAD^ HEAD -- readme.md > diff.txt
+          # Get the diff of README.md from the previous commit
+          git diff HEAD^ HEAD -- README.md > diff.txt
 
           # Extract added lines (lines starting with +)
           echo "## Added Links" > changes.md

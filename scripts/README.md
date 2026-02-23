@@ -15,7 +15,7 @@ node scripts/generate-changelog.js 3
 ```
 
 This will:
-- Compare the current `readme.md` with previous commits
+- Compare the current `README.md` with previous commits
 - Extract added and removed links
 - Generate a formatted changelog entry
 - Generate a social media post
@@ -25,7 +25,7 @@ This will:
 
 The repository includes a GitHub Action (`.github/workflows/changelog-generator.yml`) that automatically:
 
-1. **Runs on every push to main** that modifies `readme.md`
+1. **Runs on every push to main** that modifies `README.md`
 2. **Detects changes** by comparing with the previous commit
 3. **Updates CHANGELOG.md** with a new dated entry
 4. **Creates a social media post** formatted for Twitter/LinkedIn/etc.
