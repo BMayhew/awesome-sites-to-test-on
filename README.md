@@ -69,6 +69,7 @@ Worthy sites for security testing
 - [Medium Clone Apps](https://codebase.show/projects/realworld) - List of the same app built across many different programming languages and frameworks.
 - [Todo List With Bugs](http://todolist.james.am/) - A simple todo list with bugs to find. [github repo](https://github.com/TheJambo/ToDoInterviewTest)
 - [QA Training Simulator](https://bugeater.web.app/) - Useful site to practice testing skills with a list of challenges.
+  - [Test Exercises List](https://bugeater.web.app/app/list) - Different types of test exercises including exploratory testing.
 - [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
 
 ## Performance Testing

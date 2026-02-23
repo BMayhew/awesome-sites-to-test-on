@@ -1,0 +1,149 @@
+name: AI Link Fixer
+
+on:
+  schedule:
+    - cron: "0 9 * * 1" # Mondays at 9am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  models: read
+
+jobs:
+  fix-broken-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+
+      - run: npm ci
+
+      - name: Run link checker
+        run: npm run link-checker 2>&1 | tee link-results.txt || true
+
+      - name: Extract failing URLs
+        id: failures
+        run: |
+          FAILURES=$(grep -E '^\[(4[0-9][0-9]|5[0-9][0-9]|0|ERR)\]' link-results.txt | awk '{print $2}' | sort -u || true)
+          if [ -n "$FAILURES" ]; then
+            echo "has_failures=true" >> $GITHUB_OUTPUT
+            echo "$FAILURES" > failing-urls.txt
+            echo "Failing URLs found:"
+            cat failing-urls.txt
+          else
+            echo "has_failures=false" >> $GITHUB_OUTPUT
+            echo "No failing links detected."
+          fi
+
+      - name: Remove failing links from README
+        if: steps.failures.outputs.has_failures == 'true'
+        run: |
+          node -e "
+            const fs = require('fs');
+            const urls = fs.readFileSync('failing-urls.txt', 'utf8').split('\n').filter(Boolean);
+            const lines = fs.readFileSync('README.md', 'utf8').split('\n');
+            const removed = lines.filter(line => urls.some(url => line.includes(url)));
+            const updated = lines.filter(line => !urls.some(url => line.includes(url)));
+            fs.writeFileSync('README.md', updated.join('\n'));
+            fs.writeFileSync('removed-lines.txt', removed.join('\n'));
+            console.log('Removed ' + removed.length + ' line(s)');
+          "
+
+      - name: Generate PR description with AI
+        if: steps.failures.outputs.has_failures == 'true'
+        id: ai_description
+        uses: actions/github-script@v7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          result-encoding: string
+          script: |
+            const fs = require('fs');
+            const removedLines = fs.readFileSync('removed-lines.txt', 'utf8').trim();
+            const failingUrls = fs.readFileSync('failing-urls.txt', 'utf8').trim();
+
+            if (!removedLines) {
+              return 'No lines were removed (URLs may appear in skip list or context only).';
+            }
+
+            const response = await fetch('https://models.github.ai/inference/chat/completions', {
+              method: 'POST',
+              headers: {
+                'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`,
+                'Content-Type': 'application/json',
+                'Accept': 'application/vnd.github+json',
+                'X-GitHub-Api-Version': '2022-11-28'
+              },
+              body: JSON.stringify({
+                model: 'openai/gpt-4o-mini',
+                max_tokens: 512,
+                messages: [{
+                  role: 'user',
+                  content: `Write a brief PR description (2-4 sentences) for removing these broken links from a curated QA testing resources list. Be factual and concise. Do not speculate on why the sites are down.\n\nRemoved entries:\n${removedLines}\n\nFailing URLs:\n${failingUrls}`
+                }]
+              })
+            });
+
+            const data = await response.json();
+
+            if (!response.ok) {
+              return `Could not generate AI description: ${JSON.stringify(data)}`;
+            }
+
+            return data.choices[0].message.content;
+
+      - name: Create branch and PR
+        if: steps.failures.outputs.has_failures == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AI_DESCRIPTION: ${{ steps.ai_description.outputs.result }}
+        run: |
+          BRANCH="fix/broken-links-$(date +%Y-%m-%d)"
+
+          # Skip if branch already exists
+          if git ls-remote --exit-code --heads origin "$BRANCH" > /dev/null 2>&1; then
+            BRANCH="fix/broken-links-$(date +%Y-%m-%d-%H%M)"
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add README.md
+          git commit -m "fix: remove broken links detected by automated link checker"
+          git push origin "$BRANCH"
+
+          REMOVED_LINES=$(cat removed-lines.txt)
+          FAILING_URLS=$(cat failing-urls.txt)
+
+          cat > pr_body.md << 'EOF'
+          ## Automated Link Fix
+
+          EOF
+          echo "$AI_DESCRIPTION" >> pr_body.md
+          cat >> pr_body.md << 'EOF'
+
+          ### Removed Entries
+          EOF
+          echo '```' >> pr_body.md
+          echo "$REMOVED_LINES" >> pr_body.md
+          echo '```' >> pr_body.md
+          cat >> pr_body.md << 'EOF'
+
+          ### Failing URLs
+          EOF
+          echo '```' >> pr_body.md
+          echo "$FAILING_URLS" >> pr_body.md
+          echo '```' >> pr_body.md
+          echo "" >> pr_body.md
+          echo "---" >> pr_body.md
+          echo "*Generated by AI Link Fixer using GitHub Models*" >> pr_body.md
+
+          gh pr create \
+            --title "fix: remove broken links ($(date +%Y-%m-%d))" \
+            --body-file pr_body.md \
+            --base main \
+            --head "$BRANCH"
