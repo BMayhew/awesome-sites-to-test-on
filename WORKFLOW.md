@@ -4,13 +4,13 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ 1. You edit readme.md and add/remove testing site links    │
+│ 1. You edit README.md and add/remove testing site links    │
 └────────────────┬────────────────────────────────────────────┘
                  │
                  ▼
 ┌─────────────────────────────────────────────────────────────┐
 │ 2. Commit and push to main branch                           │
-│    git add readme.md                                         │
+│    git add README.md                                         │
 │    git commit -m "Add new testing sites"                    │
 │    git push origin main                                      │
 └────────────────┬────────────────────────────────────────────┘
@@ -45,7 +45,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ 1. You edit readme.md and add/remove testing site links    │
+│ 1. You edit README.md and add/remove testing site links    │
 └────────────────┬────────────────────────────────────────────┘
                  │
                  ▼
@@ -113,7 +113,7 @@ Only changes to link lines (containing markdown links with http/https) are track
 
 ## 📱 Social Media Post Example
 
-Input (what you add to readme.md):
+Input (what you add to README.md):
 ```markdown
 - [Coffee Cart](https://coffee-cart.app/) - A simple coffee ordering app
 - [Academy Bugs](https://academybugs.com/) - Test site with 25 real bugs
@@ -144,7 +144,7 @@ Perfect for copy-paste to Twitter, LinkedIn, or any social platform!
 ### For Single Updates
 ```bash
 # Make your change
-vim readme.md
+vim README.md
 
 # Test locally first
 npm run changelog
@@ -153,7 +153,7 @@ npm run changelog
 cat temp/social-post.md
 
 # If happy, push
-git add readme.md
+git add README.md
 git commit -m "Add Coffee Cart testing site"
 git push origin main
 ```
@@ -161,11 +161,11 @@ git push origin main
 ### For Batch Updates
 ```bash
 # Add multiple sites in one session
-vim readme.md
+vim README.md
 # (add 5-10 new testing sites)
 
 # Commit all at once
-git add readme.md
+git add README.md
 git commit -m "Add 10 new web testing sites"
 git push origin main
 
@@ -175,13 +175,13 @@ git push origin main
 ## 🔍 Troubleshooting
 
 ### "No changes detected"
-- Make sure you're editing readme.md
+- Make sure you're editing README.md
 - Changes must be to lines containing markdown links: `[Text](http://url)`
 - Commit your changes before running the script
 
 ### GitHub Action not running
 - Check that you pushed to the `main` branch
-- Verify readme.md was actually modified in the commit
+- Verify README.md was actually modified in the commit
 - Check Actions tab for error messages
 
 ### Script fails locally

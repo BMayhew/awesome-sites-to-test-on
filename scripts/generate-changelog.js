@@ -18,10 +18,10 @@ const compareRef = `HEAD~${commitsBack}`;
 
 try {
   // Get the diff
-  const diff = execSync(`git diff ${compareRef} HEAD -- readme.md`, { encoding: 'utf-8' });
+  const diff = execSync(`git diff ${compareRef} HEAD -- README.md`, { encoding: 'utf-8' });
   
   if (!diff) {
-    console.log('No changes detected in readme.md');
+    console.log('No changes detected in README.md');
     process.exit(0);
   }
 

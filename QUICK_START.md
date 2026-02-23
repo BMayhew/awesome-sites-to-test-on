@@ -2,11 +2,11 @@
 
 ## 🚀 Quick Start
 
-**After adding/removing links from readme.md:**
+**After adding/removing links from README.md:**
 
 ### Option 1: Automatic (Push to main)
 ```bash
-git add readme.md
+git add README.md
 git commit -m "Add new testing sites"
 git push origin main
 ```
@@ -43,7 +43,7 @@ npm run changelog
 node scripts/generate-changelog.js 3
 
 # Check what changed without generating
-git diff HEAD~1 readme.md
+git diff HEAD~1 README.md
 ```
 
 ## 📋 What Gets Tracked
