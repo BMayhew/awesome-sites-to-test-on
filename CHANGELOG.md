@@ -15,6 +15,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -22,6 +29,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -145,6 +159,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -152,6 +173,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -162,6 +190,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -169,6 +204,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -292,6 +334,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -299,6 +348,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -312,6 +368,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -319,6 +382,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -442,6 +512,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -449,6 +526,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -459,6 +543,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -466,6 +557,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -589,6 +687,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -596,6 +701,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -607,6 +719,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -614,6 +733,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -737,6 +863,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -744,6 +877,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -754,6 +894,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -761,6 +908,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -884,6 +1038,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -891,6 +1052,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -904,6 +1072,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -911,6 +1086,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1034,6 +1216,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1041,6 +1230,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1051,6 +1247,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1058,6 +1261,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1181,6 +1391,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1188,6 +1405,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1202,6 +1426,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1209,6 +1440,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1332,6 +1570,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1339,6 +1584,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1349,6 +1601,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1356,6 +1615,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1479,6 +1745,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1486,6 +1759,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1499,6 +1779,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1506,6 +1793,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1629,6 +1923,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1636,6 +1937,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1646,6 +1954,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1653,6 +1968,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1776,6 +2098,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1783,6 +2112,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1794,6 +2130,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1801,6 +2144,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1924,6 +2274,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1931,6 +2288,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -1941,6 +2305,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -1948,6 +2319,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2071,6 +2449,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2078,6 +2463,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2091,6 +2483,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2098,6 +2497,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2221,6 +2627,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2228,6 +2641,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2238,6 +2658,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2245,6 +2672,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2368,6 +2802,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2375,6 +2816,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2390,6 +2838,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2397,6 +2852,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2520,6 +2982,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2527,6 +2996,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2537,6 +3013,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2544,6 +3027,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2667,6 +3157,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2674,6 +3171,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2687,6 +3191,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2694,6 +3205,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2817,6 +3335,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2824,6 +3349,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2834,6 +3366,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2841,6 +3380,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2964,6 +3510,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2971,6 +3524,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -2982,6 +3542,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -2989,6 +3556,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3112,6 +3686,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3119,6 +3700,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3129,6 +3717,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3136,6 +3731,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3259,6 +3861,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3266,6 +3875,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3279,6 +3895,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3286,6 +3909,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3409,6 +4039,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3416,6 +4053,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3426,6 +4070,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3433,6 +4084,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3556,6 +4214,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3563,6 +4228,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3577,6 +4249,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3584,6 +4263,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3707,6 +4393,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3714,6 +4407,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3724,6 +4424,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3731,6 +4438,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3854,6 +4568,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3861,6 +4582,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -3874,6 +4602,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -3881,6 +4616,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4004,6 +4746,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4011,6 +4760,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4021,6 +4777,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4028,6 +4791,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4151,6 +4921,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4158,6 +4935,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4169,6 +4953,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4176,6 +4967,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4299,6 +5097,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4306,6 +5111,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4316,6 +5128,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4323,6 +5142,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4446,6 +5272,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4453,6 +5286,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4466,6 +5306,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4473,6 +5320,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4596,6 +5450,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4603,6 +5464,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4613,6 +5481,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4620,6 +5495,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4743,6 +5625,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4750,6 +5639,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4761,6 +5657,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4768,6 +5671,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4891,6 +5801,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4898,6 +5815,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -4908,6 +5832,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -4915,6 +5846,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5038,6 +5976,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5045,6 +5990,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5058,6 +6010,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5065,6 +6024,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5188,6 +6154,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5195,6 +6168,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5205,6 +6185,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5212,6 +6199,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5335,6 +6329,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5342,6 +6343,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5353,6 +6361,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5360,6 +6375,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5483,6 +6505,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5490,6 +6519,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5500,6 +6536,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5507,6 +6550,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5630,6 +6680,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5637,6 +6694,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5650,6 +6714,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5657,6 +6728,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5780,6 +6858,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5787,6 +6872,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5797,6 +6889,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5804,6 +6903,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5927,6 +7033,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5934,6 +7047,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -5948,6 +7068,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -5955,6 +7082,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6078,6 +7212,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6085,6 +7226,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6095,6 +7243,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6102,6 +7257,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6225,6 +7387,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6232,6 +7401,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6245,6 +7421,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6252,6 +7435,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6375,6 +7565,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6382,6 +7579,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6392,6 +7596,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6399,6 +7610,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6522,6 +7740,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6529,6 +7754,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6540,6 +7772,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6547,6 +7786,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6670,6 +7916,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6677,6 +7930,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6687,6 +7947,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6694,6 +7961,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6817,6 +8091,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6824,6 +8105,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6837,6 +8125,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6844,6 +8139,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6967,6 +8269,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6974,6 +8283,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -6984,6 +8300,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -6991,6 +8314,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7114,6 +8444,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7121,6 +8458,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7136,6 +8480,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7143,6 +8494,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7266,6 +8624,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7273,6 +8638,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7283,6 +8655,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7290,6 +8669,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7413,6 +8799,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7420,6 +8813,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7433,6 +8833,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7440,6 +8847,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7563,6 +8977,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7570,6 +8991,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7580,6 +9008,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7587,6 +9022,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7710,6 +9152,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7717,6 +9166,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7728,6 +9184,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7735,6 +9198,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7858,6 +9328,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7865,6 +9342,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -7875,6 +9359,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -7882,6 +9373,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8005,6 +9503,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8012,6 +9517,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8025,6 +9537,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8032,6 +9551,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8155,6 +9681,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8162,6 +9695,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8172,6 +9712,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8179,6 +9726,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8302,6 +9856,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8309,6 +9870,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8323,6 +9891,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8330,6 +9905,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8453,6 +10035,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8460,6 +10049,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8470,6 +10066,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8477,6 +10080,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8600,6 +10210,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8607,6 +10224,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8620,6 +10244,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8627,6 +10258,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8750,6 +10388,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8757,6 +10402,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8767,6 +10419,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8774,6 +10433,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8897,6 +10563,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8904,6 +10577,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -8915,6 +10595,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -8922,6 +10609,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9045,6 +10739,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9052,6 +10753,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9062,6 +10770,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9069,6 +10784,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9192,6 +10914,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9199,6 +10928,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9212,6 +10948,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9219,6 +10962,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9342,6 +11092,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9349,6 +11106,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9359,6 +11123,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9366,6 +11137,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
@@ -9489,6 +11267,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
 ## [2026-02-23]
 
 ### Added
@@ -9496,6 +11281,13 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 ### Removed
 - [Supercar Showdown](https://hack-yourself-first.com/) - A website provided by Troy Hunt to practice security testing.
 - [Online Boutique](https://cymbal-shops.retail.cymbal.dev/) - GoogleCloud MicroServices Demo [Source](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+---
+
+## [2026-03-02]
+
+### Added
+- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ---
 
