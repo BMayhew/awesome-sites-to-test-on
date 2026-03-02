@@ -13,13 +13,11 @@ permissions:
 tools:
   github:
     toolsets: [default]
-  playwright:
   web-fetch:
 network:
   allowed:
     - defaults
     - node
-    - "*"
 safe-outputs:
   add-comment:
     max: 5
@@ -82,24 +80,26 @@ Entry format:
    - Close the issue.
    - Stop processing.
 
-### Step 3: Explore and Validate the Site
+### Step 3: Research and Validate the Site
 
-1. Use Playwright to navigate to the submitted URL.
-2. Take a snapshot of the page to understand what the site is about.
-3. Evaluate whether this is a legitimate site meant for testing practice. Look for indicators like:
+1. Use `web-fetch` to retrieve the page content at the submitted URL.
+2. Analyze the page content (title, headings, meta descriptions, body text) to understand what the site is about.
+3. Also consider any description the issue author provided about the site.
+4. Evaluate whether this is a legitimate site meant for testing practice. Look for indicators like:
    - The site describes itself as a practice/demo/testing site
    - It contains intentional bugs, vulnerabilities, or test scenarios
    - It provides APIs for testing (REST, GraphQL, gRPC, WebSocket)
    - It's a demo e-commerce store, bank, or other application for QA practice
    - It has automation-friendly elements or challenges
    - It's an open-source vulnerable application for security testing
+   - It appears in lists of QA/testing practice resources
 
-4. If the site does NOT appear to be meant for testing practice:
+5. If the site does NOT appear to be meant for testing practice:
    - Add a comment explaining why the site doesn't fit the repository's purpose.
    - Close the issue.
    - Stop processing.
 
-5. If the site IS a valid testing site, determine:
+6. If the site IS a valid testing site, determine:
    - The best **category** from the table above
    - A concise **description** that explains the testing value (not just what the site is)
    - The proper **site name** to use

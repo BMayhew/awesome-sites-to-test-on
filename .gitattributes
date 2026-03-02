@@ -1,2 +1,4 @@
 * text=auto
 README.md merge=union
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
