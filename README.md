@@ -70,7 +70,6 @@ Worthy sites for security testing
 - [QA Training Simulator](https://bugeater.web.app/) - Useful site to practice testing skills with a list of challenges.
   - [Test Exercises List](https://bugeater.web.app/app/list) - Different types of test exercises including exploratory testing.
 - [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
-- [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
 
 ## Performance Testing
 
