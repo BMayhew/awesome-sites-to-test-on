@@ -148,6 +148,7 @@ Worthy sites for security testing
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 - [Open Movie Database API](http://www.omdbapi.com/) - API for movie data.
+- [ToolPipe API](https://toolpipe.dev) - Free REST API with 55+ utility endpoints (QR codes, text analysis, DNS lookup, hashing, etc.) for practicing API testing — no signup required, includes rate limiting for testing error handling.
 
 
 ## Contribute
