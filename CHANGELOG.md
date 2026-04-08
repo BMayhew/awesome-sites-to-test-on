@@ -15,12 +15,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -31,12 +49,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -50,12 +86,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -66,12 +120,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -195,12 +267,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -211,12 +301,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -230,12 +338,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -246,12 +372,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -262,12 +406,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -278,12 +440,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -297,12 +477,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -313,12 +511,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -442,12 +658,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -458,12 +692,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -477,12 +729,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -493,12 +763,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -512,12 +800,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -528,12 +834,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -547,12 +871,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -563,12 +905,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -692,12 +1052,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -708,12 +1086,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -727,12 +1123,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -743,12 +1157,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -759,12 +1191,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -775,12 +1225,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -794,12 +1262,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -810,12 +1296,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -939,12 +1443,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -955,12 +1477,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -974,12 +1514,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -990,12 +1548,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1007,12 +1583,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1023,12 +1617,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1042,12 +1654,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1058,12 +1688,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1187,12 +1835,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1203,12 +1869,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1222,12 +1906,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1238,12 +1940,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1254,12 +1974,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1270,12 +2008,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1289,12 +2045,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1305,12 +2079,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1434,12 +2226,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1450,12 +2260,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1469,12 +2297,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1485,12 +2331,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1504,12 +2368,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1520,12 +2402,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1539,12 +2439,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1555,12 +2473,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1684,12 +2620,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1700,12 +2654,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1719,12 +2691,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1735,12 +2725,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1751,12 +2759,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1767,12 +2793,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1786,12 +2830,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1802,12 +2864,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1931,12 +3011,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1947,12 +3045,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1966,12 +3082,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -1982,12 +3116,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2002,12 +3154,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2018,12 +3188,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2037,12 +3225,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2053,12 +3259,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2182,12 +3406,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2198,12 +3440,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2217,12 +3477,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2233,12 +3511,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2249,12 +3545,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2265,12 +3579,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2284,12 +3616,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2300,12 +3650,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2429,12 +3797,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2445,12 +3831,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2464,12 +3868,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2480,12 +3902,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2499,12 +3939,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2515,12 +3973,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2534,12 +4010,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2550,12 +4044,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2679,12 +4191,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2695,12 +4225,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2714,12 +4262,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2730,12 +4296,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2746,12 +4330,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2762,12 +4364,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2781,12 +4401,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2797,12 +4435,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2926,12 +4582,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2942,12 +4616,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2961,12 +4653,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2977,12 +4687,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -2994,12 +4722,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3010,12 +4756,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3029,12 +4793,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3045,12 +4827,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3174,12 +4974,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3190,12 +5008,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3209,12 +5045,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3225,12 +5079,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3241,12 +5113,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3257,12 +5147,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3276,12 +5184,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3292,12 +5218,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3421,12 +5365,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3437,12 +5399,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3456,12 +5436,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3472,12 +5470,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3491,12 +5507,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3507,12 +5541,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3526,12 +5578,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3542,12 +5612,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3671,12 +5759,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3687,12 +5793,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3706,12 +5830,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3722,12 +5864,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3738,12 +5898,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3754,12 +5932,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3773,12 +5969,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3789,12 +6003,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3918,12 +6150,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3934,12 +6184,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3953,12 +6221,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3969,12 +6255,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -3990,12 +6294,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4006,12 +6328,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4025,12 +6365,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4041,12 +6399,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4170,12 +6546,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4186,12 +6580,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4205,12 +6617,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4221,12 +6651,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4237,12 +6685,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4253,12 +6719,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4272,12 +6756,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4288,12 +6790,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4417,12 +6937,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4433,12 +6971,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4452,12 +7008,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4468,12 +7042,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4487,12 +7079,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4503,12 +7113,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4522,12 +7150,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4538,12 +7184,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4667,12 +7331,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4683,12 +7365,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4702,12 +7402,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4718,12 +7436,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4734,12 +7470,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4750,12 +7504,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4769,12 +7541,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4785,12 +7575,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4914,12 +7722,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4930,12 +7756,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4949,12 +7793,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4965,12 +7827,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4982,12 +7862,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -4998,12 +7896,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5017,12 +7933,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5033,12 +7967,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5162,12 +8114,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5178,12 +8148,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5197,12 +8185,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5213,12 +8219,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5229,12 +8253,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5245,12 +8287,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5264,12 +8324,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5280,12 +8358,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5409,12 +8505,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5425,12 +8539,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5444,12 +8576,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5460,12 +8610,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5479,12 +8647,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5495,12 +8681,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5514,12 +8718,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5530,12 +8752,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5659,12 +8899,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5675,12 +8933,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5694,12 +8970,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5710,12 +9004,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5726,12 +9038,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5742,12 +9072,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5761,12 +9109,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5777,12 +9143,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5906,12 +9290,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5922,12 +9324,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5941,12 +9361,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5957,12 +9395,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5977,12 +9433,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -5993,12 +9467,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6012,12 +9504,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6028,12 +9538,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6157,12 +9685,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6173,12 +9719,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6192,12 +9756,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6208,12 +9790,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6224,12 +9824,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6240,12 +9858,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6259,12 +9895,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6275,12 +9929,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6404,12 +10076,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6420,12 +10110,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6439,12 +10147,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6455,12 +10181,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6474,12 +10218,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6490,12 +10252,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6509,12 +10289,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6525,12 +10323,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6654,12 +10470,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6670,12 +10504,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6689,12 +10541,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6705,12 +10575,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6721,12 +10609,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6737,12 +10643,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6756,12 +10680,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6772,12 +10714,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6901,12 +10861,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6917,12 +10895,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6936,12 +10932,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6952,12 +10966,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6969,12 +11001,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -6985,12 +11035,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7004,12 +11072,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7020,12 +11106,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7149,12 +11253,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7165,12 +11287,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7184,12 +11324,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7200,12 +11358,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7216,12 +11392,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7232,12 +11426,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7251,12 +11463,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7267,12 +11497,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7396,12 +11644,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7412,12 +11678,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7431,12 +11715,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7447,12 +11749,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7466,12 +11786,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7482,12 +11820,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7501,12 +11857,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7517,12 +11891,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7646,12 +12038,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7662,12 +12072,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7681,12 +12109,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7697,12 +12143,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7713,12 +12177,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7729,12 +12211,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7748,12 +12248,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7764,12 +12282,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7893,12 +12429,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7909,12 +12463,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7928,12 +12500,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7944,12 +12534,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7961,12 +12569,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7977,12 +12603,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -7996,12 +12640,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8012,12 +12674,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8141,12 +12821,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8157,12 +12855,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8176,12 +12892,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8192,12 +12926,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8208,12 +12960,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8224,12 +12994,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8243,12 +13031,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8259,12 +13065,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8388,12 +13212,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8404,12 +13246,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8423,12 +13283,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8439,12 +13317,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8458,12 +13354,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8474,12 +13388,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8493,12 +13425,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8509,12 +13459,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8638,12 +13606,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8654,12 +13640,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8673,12 +13677,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8689,12 +13711,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8705,12 +13745,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8721,12 +13779,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8740,12 +13816,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8756,12 +13850,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8885,12 +13997,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8901,12 +14031,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8920,12 +14068,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8936,12 +14102,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8953,12 +14137,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8969,12 +14171,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -8988,12 +14208,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9004,12 +14242,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9133,12 +14389,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9149,12 +14423,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9168,12 +14460,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9184,12 +14494,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9200,12 +14528,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9216,12 +14562,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9235,12 +14599,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9251,12 +14633,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9380,12 +14780,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9396,12 +14814,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9415,12 +14851,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9431,12 +14885,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9450,12 +14922,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9466,12 +14956,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9485,12 +14993,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9501,12 +15027,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9630,12 +15174,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9646,12 +15208,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9665,12 +15245,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9681,12 +15279,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9697,12 +15313,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9713,12 +15347,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9732,12 +15384,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9748,12 +15418,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9877,12 +15565,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9893,12 +15599,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9912,12 +15636,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9928,12 +15670,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9948,12 +15708,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9964,12 +15742,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9983,12 +15779,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -9999,12 +15813,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10128,12 +15960,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10144,12 +15994,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10163,12 +16031,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10179,12 +16065,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10195,12 +16099,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10211,12 +16133,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10230,12 +16170,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10246,12 +16204,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10375,12 +16351,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10391,12 +16385,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10410,12 +16422,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10426,12 +16456,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10445,12 +16493,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10461,12 +16527,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10480,12 +16564,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10496,12 +16598,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10625,12 +16745,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10641,12 +16779,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10660,12 +16816,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10676,12 +16850,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10692,12 +16884,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10708,12 +16918,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10727,12 +16955,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10743,12 +16989,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10872,12 +17136,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10888,12 +17170,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10907,12 +17207,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10923,12 +17241,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10940,12 +17276,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10956,12 +17310,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10975,12 +17347,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -10991,12 +17381,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11120,12 +17528,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11136,12 +17562,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11155,12 +17599,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11171,12 +17633,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11187,12 +17667,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11203,12 +17701,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11222,12 +17738,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11238,12 +17772,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11367,12 +17919,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11383,12 +17953,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11402,12 +17990,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11418,12 +18024,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11437,12 +18061,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11453,12 +18095,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11472,12 +18132,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11488,12 +18166,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11617,12 +18313,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11633,12 +18347,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11652,12 +18384,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11668,12 +18418,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11684,12 +18452,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11700,12 +18486,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11719,12 +18523,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11735,12 +18557,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11864,12 +18704,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11880,12 +18738,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11899,12 +18775,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11915,12 +18809,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11936,12 +18848,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11952,12 +18882,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11971,12 +18919,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -11987,12 +18953,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12116,12 +19100,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12132,12 +19134,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12151,12 +19171,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12167,12 +19205,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12183,12 +19239,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12199,12 +19273,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12218,12 +19310,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12234,12 +19344,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12363,12 +19491,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12379,12 +19525,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12398,12 +19562,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12414,12 +19596,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12433,12 +19633,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12449,12 +19667,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12468,12 +19704,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12484,12 +19738,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12613,12 +19885,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12629,12 +19919,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12648,12 +19956,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12664,12 +19990,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12680,12 +20024,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12696,12 +20058,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12715,12 +20095,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12731,12 +20129,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12860,12 +20276,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12876,12 +20310,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12895,12 +20347,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12911,12 +20381,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12928,12 +20416,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12944,12 +20450,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12963,12 +20487,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -12979,12 +20521,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13108,12 +20668,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13124,12 +20702,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13143,12 +20739,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13159,12 +20773,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13175,12 +20807,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13191,12 +20841,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13210,12 +20878,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13226,12 +20912,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13355,12 +21059,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13371,12 +21093,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13390,12 +21130,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13406,12 +21164,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13425,12 +21201,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13441,12 +21235,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13460,12 +21272,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13476,12 +21306,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13605,12 +21453,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13621,12 +21487,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13640,12 +21524,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13656,12 +21558,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13672,12 +21592,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13688,12 +21626,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13707,12 +21663,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13723,12 +21697,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13852,12 +21844,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13868,12 +21878,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13887,12 +21915,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13903,12 +21949,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13923,12 +21987,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13939,12 +22021,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13958,12 +22058,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -13974,12 +22092,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14103,12 +22239,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14119,12 +22273,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14138,12 +22310,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14154,12 +22344,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14170,12 +22378,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14186,12 +22412,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14205,12 +22449,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14221,12 +22483,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14350,12 +22630,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14366,12 +22664,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14385,12 +22701,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14401,12 +22735,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14420,12 +22772,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14436,12 +22806,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14455,12 +22843,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14471,12 +22877,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14600,12 +23024,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14616,12 +23058,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14635,12 +23095,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14651,12 +23129,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14667,12 +23163,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14683,12 +23197,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14702,12 +23234,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14718,12 +23268,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14847,12 +23415,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14863,12 +23449,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14882,12 +23486,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14898,12 +23520,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14915,12 +23555,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14931,12 +23589,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14950,12 +23626,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -14966,12 +23660,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15095,12 +23807,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15111,12 +23841,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15130,12 +23878,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15146,12 +23912,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15162,12 +23946,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15178,12 +23980,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15197,12 +24017,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15213,12 +24051,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15342,12 +24198,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15358,12 +24232,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15377,12 +24269,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15393,12 +24303,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15412,12 +24340,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15428,12 +24374,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15447,12 +24411,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15463,12 +24445,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15592,12 +24592,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15608,12 +24626,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15627,12 +24663,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15643,12 +24697,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15659,12 +24731,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15675,12 +24765,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15694,12 +24802,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15710,12 +24836,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15839,12 +24983,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15855,12 +25017,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15874,12 +25054,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
@@ -15890,12 +25088,30 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
 ## [2026-03-09]
 
 ### Added
 
 ### Removed
 - [TAI Shop](https://tai-shop.razvanvancea.ro/) - Demo e-commerce shop for practicing web testing and test automation skills.
+
+---
+
+## [2026-04-08]
+
+### Added
+
+### Removed
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 ---
 
