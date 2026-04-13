@@ -114,7 +114,6 @@ Worthy sites for security testing
 - [Demo QA](https://demoqa.com/) - Elements, Forms, Widgets, Interactions, and Bookstore Application
 - [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
 - [GitHub users Search (API backend)](https://gh-users-search.netlify.app/) - GitHub users search with API backend to practice automation skills.
-- [React Shopping Cart](https://react-shopping-cart-67954.firebaseapp.com/) Modern E-commerce Site - Github [repo](https://github.com/jeffersonRibeiro/react-shopping-cart)
 - [Boozang Lab](https://thelab.boozang.com/) - Website to practice test automation skills.
 - [SAP UI5 Demo Apps](https://ui5.sap.com/#/demoapps) - Demo applications built with SAP.
 - [AutomateNow Practice Website](https://practice-automation.com/) - Page with different types of interactions to practice automation.
