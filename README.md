@@ -147,7 +147,7 @@ Worthy sites for security testing
 - [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 - [Open Movie Database API](http://www.omdbapi.com/) - API for movie data.
-
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ## Contribute
 
