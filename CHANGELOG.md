@@ -15,12 +15,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -33,12 +47,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -49,12 +77,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -67,12 +109,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -86,12 +142,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -104,12 +174,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -120,12 +204,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -138,12 +236,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -267,12 +379,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -285,12 +411,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -301,12 +441,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -319,12 +473,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -338,12 +506,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -356,12 +538,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -372,12 +568,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -390,12 +600,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -406,12 +630,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -424,12 +662,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -440,12 +692,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -458,12 +724,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -477,12 +757,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -495,12 +789,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -511,12 +819,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -529,12 +851,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -658,12 +994,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -676,12 +1026,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -692,12 +1056,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -710,12 +1088,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -729,12 +1121,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -747,12 +1153,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -763,12 +1183,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -781,12 +1215,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -800,12 +1248,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -818,12 +1280,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -834,12 +1310,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -852,12 +1342,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -871,12 +1375,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -889,12 +1407,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -905,12 +1437,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -923,12 +1469,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1052,12 +1612,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1070,12 +1644,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1086,12 +1674,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1104,12 +1706,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1123,12 +1739,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1141,12 +1771,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1157,12 +1801,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1175,12 +1833,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1191,12 +1863,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1209,12 +1895,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1225,12 +1925,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1243,12 +1957,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1262,12 +1990,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1280,12 +2022,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1296,12 +2052,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1314,12 +2084,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1443,12 +2227,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1461,12 +2259,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1477,12 +2289,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1495,12 +2321,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1514,12 +2354,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1532,12 +2386,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1548,12 +2416,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1566,12 +2448,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1583,12 +2479,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1601,12 +2511,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1617,12 +2541,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1635,12 +2573,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1654,12 +2606,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1672,12 +2638,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1688,12 +2668,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1706,12 +2700,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1835,12 +2843,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1853,12 +2875,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1869,12 +2905,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1887,12 +2937,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1906,12 +2970,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1924,12 +3002,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1940,12 +3032,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1958,12 +3064,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1974,12 +3094,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -1992,12 +3126,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2008,12 +3156,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2026,12 +3188,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2045,12 +3221,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2063,12 +3253,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2079,12 +3283,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2097,12 +3315,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2226,12 +3458,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2244,12 +3490,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2260,12 +3520,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2278,12 +3552,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2297,12 +3585,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2315,12 +3617,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2331,12 +3647,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2349,12 +3679,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2368,12 +3712,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2386,12 +3744,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2402,12 +3774,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2420,12 +3806,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2439,12 +3839,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2457,12 +3871,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2473,12 +3901,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2491,12 +3933,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2620,12 +4076,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2638,12 +4108,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2654,12 +4138,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2672,12 +4170,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2691,12 +4203,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2709,12 +4235,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2725,12 +4265,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2743,12 +4297,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2759,12 +4327,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2777,12 +4359,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2793,12 +4389,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2811,12 +4421,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2830,12 +4454,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2848,12 +4486,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2864,12 +4516,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -2882,12 +4548,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3011,12 +4691,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3029,12 +4723,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3045,12 +4753,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3063,12 +4785,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3082,12 +4818,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3100,12 +4850,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3116,12 +4880,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3134,12 +4912,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3154,12 +4946,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3172,12 +4978,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3188,12 +5008,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3206,12 +5040,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3225,12 +5073,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3243,12 +5105,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3259,12 +5135,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3277,12 +5167,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3406,12 +5310,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3424,12 +5342,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3440,12 +5372,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3458,12 +5404,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3477,12 +5437,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3495,12 +5469,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3511,12 +5499,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3529,12 +5531,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3545,12 +5561,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3563,12 +5593,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3579,12 +5623,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3597,12 +5655,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3616,12 +5688,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3634,12 +5720,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3650,12 +5750,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3668,12 +5782,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3797,12 +5925,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3815,12 +5957,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3831,12 +5987,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3849,12 +6019,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3868,12 +6052,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3886,12 +6084,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3902,12 +6114,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3920,12 +6146,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3939,12 +6179,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3957,12 +6211,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3973,12 +6241,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -3991,12 +6273,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4010,12 +6306,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4028,12 +6338,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4044,12 +6368,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4062,12 +6400,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4191,12 +6543,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4209,12 +6575,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4225,12 +6605,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4243,12 +6637,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4262,12 +6670,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4280,12 +6702,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4296,12 +6732,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4314,12 +6764,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4330,12 +6794,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4348,12 +6826,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4364,12 +6856,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4382,12 +6888,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4401,12 +6921,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4419,12 +6953,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4435,12 +6983,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4453,12 +7015,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4582,12 +7158,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4600,12 +7190,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4616,12 +7220,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4634,12 +7252,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4653,12 +7285,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4671,12 +7317,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4687,12 +7347,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4705,12 +7379,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4722,12 +7410,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4740,12 +7442,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4756,12 +7472,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4774,12 +7504,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4793,12 +7537,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4811,12 +7569,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4827,12 +7599,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4845,12 +7631,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4974,12 +7774,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -4992,12 +7806,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5008,12 +7836,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5026,12 +7868,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5045,12 +7901,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5063,12 +7933,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5079,12 +7963,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5097,12 +7995,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5113,12 +8025,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5131,12 +8057,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5147,12 +8087,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5165,12 +8119,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5184,12 +8152,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5202,12 +8184,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5218,12 +8214,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5236,12 +8246,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5365,12 +8389,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5383,12 +8421,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5399,12 +8451,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5417,12 +8483,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5436,12 +8516,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5454,12 +8548,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5470,12 +8578,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5488,12 +8610,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5507,12 +8643,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5525,12 +8675,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5541,12 +8705,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5559,12 +8737,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5578,12 +8770,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5596,12 +8802,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5612,12 +8832,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5630,12 +8864,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5759,12 +9007,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5777,12 +9039,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5793,12 +9069,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5811,12 +9101,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5830,12 +9134,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5848,12 +9166,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5864,12 +9196,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5882,12 +9228,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5898,12 +9258,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5916,12 +9290,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5932,12 +9320,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5950,12 +9352,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5969,12 +9385,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -5987,12 +9417,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6003,12 +9447,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6021,12 +9479,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6150,12 +9622,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6168,12 +9654,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6184,12 +9684,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6202,12 +9716,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6221,12 +9749,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6239,12 +9781,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6255,12 +9811,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6273,12 +9843,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6294,12 +9878,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6312,12 +9910,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6328,12 +9940,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6346,12 +9972,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6365,12 +10005,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6383,12 +10037,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6399,12 +10067,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6417,12 +10099,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6546,12 +10242,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6564,12 +10274,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6580,12 +10304,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6598,12 +10336,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6617,12 +10369,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6635,12 +10401,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6651,12 +10431,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6669,12 +10463,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6685,12 +10493,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6703,12 +10525,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6719,12 +10555,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6737,12 +10587,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6756,12 +10620,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6774,12 +10652,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6790,12 +10682,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6808,12 +10714,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6937,12 +10857,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6955,12 +10889,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6971,12 +10919,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -6989,12 +10951,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7008,12 +10984,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7026,12 +11016,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7042,12 +11046,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7060,12 +11078,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7079,12 +11111,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7097,12 +11143,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7113,12 +11173,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7131,12 +11205,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7150,12 +11238,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7168,12 +11270,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7184,12 +11300,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7202,12 +11332,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7331,12 +11475,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7349,12 +11507,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7365,12 +11537,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7383,12 +11569,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7402,12 +11602,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7420,12 +11634,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7436,12 +11664,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7454,12 +11696,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7470,12 +11726,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7488,12 +11758,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7504,12 +11788,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7522,12 +11820,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7541,12 +11853,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7559,12 +11885,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7575,12 +11915,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7593,12 +11947,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7722,12 +12090,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7740,12 +12122,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7756,12 +12152,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7774,12 +12184,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7793,12 +12217,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7811,12 +12249,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7827,12 +12279,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7845,12 +12311,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7862,12 +12342,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7880,12 +12374,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7896,12 +12404,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7914,12 +12436,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7933,12 +12469,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7951,12 +12501,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7967,12 +12531,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -7985,12 +12563,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8114,12 +12706,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8132,12 +12738,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8148,12 +12768,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8166,12 +12800,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8185,12 +12833,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8203,12 +12865,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8219,12 +12895,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8237,12 +12927,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8253,12 +12957,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8271,12 +12989,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8287,12 +13019,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8305,12 +13051,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8324,12 +13084,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8342,12 +13116,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8358,12 +13146,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8376,12 +13178,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8505,12 +13321,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8523,12 +13353,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8539,12 +13383,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8557,12 +13415,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8576,12 +13448,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8594,12 +13480,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8610,12 +13510,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8628,12 +13542,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8647,12 +13575,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8665,12 +13607,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8681,12 +13637,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8699,12 +13669,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8718,12 +13702,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8736,12 +13734,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8752,12 +13764,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8770,12 +13796,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8899,12 +13939,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8917,12 +13971,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8933,12 +14001,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8951,12 +14033,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8970,12 +14066,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -8988,12 +14098,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9004,12 +14128,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9022,12 +14160,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9038,12 +14190,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9056,12 +14222,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9072,12 +14252,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9090,12 +14284,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9109,12 +14317,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9127,12 +14349,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9143,12 +14379,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9161,12 +14411,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9290,12 +14554,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9308,12 +14586,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9324,12 +14616,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9342,12 +14648,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9361,12 +14681,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9379,12 +14713,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9395,12 +14743,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9413,12 +14775,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9433,12 +14809,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9451,12 +14841,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9467,12 +14871,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9485,12 +14903,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9504,12 +14936,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9522,12 +14968,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9538,12 +14998,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9556,12 +15030,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9685,12 +15173,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9703,12 +15205,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9719,12 +15235,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9737,12 +15267,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9756,12 +15300,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9774,12 +15332,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9790,12 +15362,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9808,12 +15394,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9824,12 +15424,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9842,12 +15456,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9858,12 +15486,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9876,12 +15518,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9895,12 +15551,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9913,12 +15583,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9929,12 +15613,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -9947,12 +15645,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10076,12 +15788,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10094,12 +15820,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10110,12 +15850,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10128,12 +15882,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10147,12 +15915,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10165,12 +15947,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10181,12 +15977,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10199,12 +16009,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10218,12 +16042,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10236,12 +16074,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10252,12 +16104,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10270,12 +16136,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10289,12 +16169,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10307,12 +16201,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10323,12 +16231,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10341,12 +16263,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10470,12 +16406,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10488,12 +16438,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10504,12 +16468,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10522,12 +16500,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10541,12 +16533,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10559,12 +16565,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10575,12 +16595,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10593,12 +16627,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10609,12 +16657,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10627,12 +16689,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10643,12 +16719,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10661,12 +16751,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10680,12 +16784,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10698,12 +16816,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10714,12 +16846,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10732,12 +16878,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10861,12 +17021,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10879,12 +17053,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10895,12 +17083,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10913,12 +17115,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10932,12 +17148,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10950,12 +17180,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10966,12 +17210,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -10984,12 +17242,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11001,12 +17273,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11019,12 +17305,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11035,12 +17335,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11053,12 +17367,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11072,12 +17400,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11090,12 +17432,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11106,12 +17462,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11124,12 +17494,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11253,12 +17637,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11271,12 +17669,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11287,12 +17699,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11305,12 +17731,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11324,12 +17764,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11342,12 +17796,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11358,12 +17826,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11376,12 +17858,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11392,12 +17888,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11410,12 +17920,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11426,12 +17950,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11444,12 +17982,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11463,12 +18015,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11481,12 +18047,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11497,12 +18077,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11515,12 +18109,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11644,12 +18252,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11662,12 +18284,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11678,12 +18314,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11696,12 +18346,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11715,12 +18379,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11733,12 +18411,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11749,12 +18441,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11767,12 +18473,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11786,12 +18506,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11804,12 +18538,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11820,12 +18568,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11838,12 +18600,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11857,12 +18633,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11875,12 +18665,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11891,12 +18695,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -11909,12 +18727,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12038,12 +18870,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12056,12 +18902,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12072,12 +18932,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12090,12 +18964,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12109,12 +18997,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12127,12 +19029,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12143,12 +19059,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12161,12 +19091,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12177,12 +19121,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12195,12 +19153,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12211,12 +19183,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12229,12 +19215,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12248,12 +19248,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12266,12 +19280,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12282,12 +19310,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12300,12 +19342,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12429,12 +19485,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12447,12 +19517,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12463,12 +19547,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12481,12 +19579,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12500,12 +19612,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12518,12 +19644,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12534,12 +19674,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12552,12 +19706,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12569,12 +19737,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12587,12 +19769,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12603,12 +19799,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12621,12 +19831,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12640,12 +19864,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12658,12 +19896,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12674,12 +19926,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12692,12 +19958,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12821,12 +20101,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12839,12 +20133,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12855,12 +20163,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12873,12 +20195,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12892,12 +20228,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12910,12 +20260,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12926,12 +20290,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12944,12 +20322,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12960,12 +20352,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12978,12 +20384,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -12994,12 +20414,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13012,12 +20446,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13031,12 +20479,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13049,12 +20511,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13065,12 +20541,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13083,12 +20573,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13212,12 +20716,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13230,12 +20748,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13246,12 +20778,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13264,12 +20810,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13283,12 +20843,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13301,12 +20875,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13317,12 +20905,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13335,12 +20937,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13354,12 +20970,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13372,12 +21002,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13388,12 +21032,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13406,12 +21064,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13425,12 +21097,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13443,12 +21129,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13459,12 +21159,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13477,12 +21191,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13606,12 +21334,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13624,12 +21366,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13640,12 +21396,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13658,12 +21428,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13677,12 +21461,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13695,12 +21493,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13711,12 +21523,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13729,12 +21555,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13745,12 +21585,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13763,12 +21617,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13779,12 +21647,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13797,12 +21679,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13816,12 +21712,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13834,12 +21744,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13850,12 +21774,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13868,12 +21806,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -13997,12 +21949,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14015,12 +21981,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14031,12 +22011,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14049,12 +22043,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14068,12 +22076,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14086,12 +22108,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14102,12 +22138,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14120,12 +22170,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14137,12 +22201,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14155,12 +22233,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14171,12 +22263,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14189,12 +22295,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14208,12 +22328,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14226,12 +22360,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14242,12 +22390,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14260,12 +22422,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14389,12 +22565,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14407,12 +22597,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14423,12 +22627,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14441,12 +22659,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14460,12 +22692,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14478,12 +22724,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14494,12 +22754,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14512,12 +22786,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14528,12 +22816,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14546,12 +22848,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14562,12 +22878,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14580,12 +22910,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14599,12 +22943,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14617,12 +22975,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14633,12 +23005,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14651,12 +23037,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14780,12 +23180,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14798,12 +23212,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14814,12 +23242,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14832,12 +23274,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14851,12 +23307,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14869,12 +23339,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14885,12 +23369,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14903,12 +23401,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14922,12 +23434,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14940,12 +23466,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14956,12 +23496,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14974,12 +23528,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -14993,12 +23561,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15011,12 +23593,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15027,12 +23623,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15045,12 +23655,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15174,12 +23798,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15192,12 +23830,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15208,12 +23860,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15226,12 +23892,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15245,12 +23925,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15263,12 +23957,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15279,12 +23987,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15297,12 +24019,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15313,12 +24049,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15331,12 +24081,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15347,12 +24111,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15365,12 +24143,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15384,12 +24176,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15402,12 +24208,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15418,12 +24238,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15436,12 +24270,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15565,12 +24413,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15583,12 +24445,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15599,12 +24475,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15617,12 +24507,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15636,12 +24540,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15654,12 +24572,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15670,12 +24602,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15688,12 +24634,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15708,12 +24668,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15726,12 +24700,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15742,12 +24730,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15760,12 +24762,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15779,12 +24795,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15797,12 +24827,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15813,12 +24857,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15831,12 +24889,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15960,12 +25032,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15978,12 +25064,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -15994,12 +25094,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16012,12 +25126,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16031,12 +25159,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16049,12 +25191,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16065,12 +25221,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16083,12 +25253,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16099,12 +25283,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16117,12 +25315,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16133,12 +25345,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16151,12 +25377,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16170,12 +25410,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16188,12 +25442,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16204,12 +25472,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16222,12 +25504,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16351,12 +25647,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16369,12 +25679,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16385,12 +25709,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16403,12 +25741,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16422,12 +25774,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16440,12 +25806,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16456,12 +25836,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16474,12 +25868,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16493,12 +25901,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16511,12 +25933,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16527,12 +25963,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16545,12 +25995,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16564,12 +26028,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16582,12 +26060,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16598,12 +26090,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16616,12 +26122,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16745,12 +26265,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16763,12 +26297,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16779,12 +26327,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16797,12 +26359,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16816,12 +26392,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16834,12 +26424,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16850,12 +26454,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16868,12 +26486,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16884,12 +26516,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16902,12 +26548,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16918,12 +26578,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16936,12 +26610,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16955,12 +26643,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16973,12 +26675,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -16989,12 +26705,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17007,12 +26737,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17136,12 +26880,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17154,12 +26912,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17170,12 +26942,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17188,12 +26974,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17207,12 +27007,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17225,12 +27039,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17241,12 +27069,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17259,12 +27101,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17276,12 +27132,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17294,12 +27164,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17310,12 +27194,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17328,12 +27226,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17347,12 +27259,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17365,12 +27291,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17381,12 +27321,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17399,12 +27353,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17528,12 +27496,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17546,12 +27528,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17562,12 +27558,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17580,12 +27590,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17599,12 +27623,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17617,12 +27655,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17633,12 +27685,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17651,12 +27717,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17667,12 +27747,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17685,12 +27779,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17701,12 +27809,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17719,12 +27841,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17738,12 +27874,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17756,12 +27906,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17772,12 +27936,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17790,12 +27968,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17919,12 +28111,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17937,12 +28143,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17953,12 +28173,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17971,12 +28205,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -17990,12 +28238,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18008,12 +28270,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18024,12 +28300,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18042,12 +28332,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18061,12 +28365,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18079,12 +28397,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18095,12 +28427,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18113,12 +28459,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18132,12 +28492,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18150,12 +28524,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18166,12 +28554,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18184,12 +28586,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18313,12 +28729,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18331,12 +28761,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18347,12 +28791,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18365,12 +28823,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18384,12 +28856,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18402,12 +28888,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18418,12 +28918,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18436,12 +28950,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18452,12 +28980,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18470,12 +29012,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18486,12 +29042,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18504,12 +29074,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18523,12 +29107,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18541,12 +29139,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18557,12 +29169,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18575,12 +29201,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18704,12 +29344,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18722,12 +29376,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18738,12 +29406,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18756,12 +29438,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18775,12 +29471,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18793,12 +29503,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18809,12 +29533,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18827,12 +29565,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18848,12 +29600,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18866,12 +29632,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18882,12 +29662,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18900,12 +29694,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18919,12 +29727,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18937,12 +29759,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18953,12 +29789,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -18971,12 +29821,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19100,12 +29964,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19118,12 +29996,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19134,12 +30026,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19152,12 +30058,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19171,12 +30091,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19189,12 +30123,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19205,12 +30153,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19223,12 +30185,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19239,12 +30215,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19257,12 +30247,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19273,12 +30277,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19291,12 +30309,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19310,12 +30342,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19328,12 +30374,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19344,12 +30404,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19362,12 +30436,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19491,12 +30579,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19509,12 +30611,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19525,12 +30641,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19543,12 +30673,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19562,12 +30706,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19580,12 +30738,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19596,12 +30768,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19614,12 +30800,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19633,12 +30833,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19651,12 +30865,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19667,12 +30895,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19685,12 +30927,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19704,12 +30960,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19722,12 +30992,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19738,12 +31022,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19756,12 +31054,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19885,12 +31197,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19903,12 +31229,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19919,12 +31259,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19937,12 +31291,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19956,12 +31324,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19974,12 +31356,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -19990,12 +31386,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20008,12 +31418,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20024,12 +31448,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20042,12 +31480,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20058,12 +31510,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20076,12 +31542,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20095,12 +31575,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20113,12 +31607,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20129,12 +31637,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20147,12 +31669,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20276,12 +31812,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20294,12 +31844,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20310,12 +31874,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20328,12 +31906,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20347,12 +31939,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20365,12 +31971,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20381,12 +32001,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20399,12 +32033,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20416,12 +32064,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20434,12 +32096,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20450,12 +32126,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20468,12 +32158,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20487,12 +32191,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20505,12 +32223,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20521,12 +32253,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20539,12 +32285,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20668,12 +32428,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20686,12 +32460,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20702,12 +32490,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20720,12 +32522,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20739,12 +32555,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20757,12 +32587,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20773,12 +32617,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20791,12 +32649,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20807,12 +32679,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20825,12 +32711,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20841,12 +32741,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20859,12 +32773,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20878,12 +32806,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20896,12 +32838,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20912,12 +32868,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -20930,12 +32900,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21059,12 +33043,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21077,12 +33075,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21093,12 +33105,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21111,12 +33137,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21130,12 +33170,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21148,12 +33202,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21164,12 +33232,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21182,12 +33264,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21201,12 +33297,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21219,12 +33329,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21235,12 +33359,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21253,12 +33391,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21272,12 +33424,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21290,12 +33456,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21306,12 +33486,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21324,12 +33518,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21453,12 +33661,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21471,12 +33693,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21487,12 +33723,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21505,12 +33755,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21524,12 +33788,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21542,12 +33820,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21558,12 +33850,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21576,12 +33882,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21592,12 +33912,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21610,12 +33944,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21626,12 +33974,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21644,12 +34006,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21663,12 +34039,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21681,12 +34071,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21697,12 +34101,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21715,12 +34133,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21844,12 +34276,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21862,12 +34308,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21878,12 +34338,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21896,12 +34370,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21915,12 +34403,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21933,12 +34435,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21949,12 +34465,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21967,12 +34497,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -21987,12 +34531,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22005,12 +34563,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22021,12 +34593,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22039,12 +34625,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22058,12 +34658,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22076,12 +34690,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22092,12 +34720,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22110,12 +34752,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22239,12 +34895,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22257,12 +34927,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22273,12 +34957,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22291,12 +34989,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22310,12 +35022,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22328,12 +35054,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22344,12 +35084,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22362,12 +35116,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22378,12 +35146,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22396,12 +35178,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22412,12 +35208,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22430,12 +35240,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22449,12 +35273,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22467,12 +35305,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22483,12 +35335,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22501,12 +35367,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22630,12 +35510,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22648,12 +35542,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22664,12 +35572,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22682,12 +35604,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22701,12 +35637,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22719,12 +35669,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22735,12 +35699,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22753,12 +35731,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22772,12 +35764,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22790,12 +35796,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22806,12 +35826,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22824,12 +35858,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22843,12 +35891,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22861,12 +35923,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22877,12 +35953,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -22895,12 +35985,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23024,12 +36128,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23042,12 +36160,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23058,12 +36190,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23076,12 +36222,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23095,12 +36255,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23113,12 +36287,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23129,12 +36317,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23147,12 +36349,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23163,12 +36379,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23181,12 +36411,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23197,12 +36441,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23215,12 +36473,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23234,12 +36506,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23252,12 +36538,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23268,12 +36568,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23286,12 +36600,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23415,12 +36743,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23433,12 +36775,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23449,12 +36805,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23467,12 +36837,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23486,12 +36870,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23504,12 +36902,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23520,12 +36932,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23538,12 +36964,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23555,12 +36995,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23573,12 +37027,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23589,12 +37057,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23607,12 +37089,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23626,12 +37122,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23644,12 +37154,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23660,12 +37184,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23678,12 +37216,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23807,12 +37359,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23825,12 +37391,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23841,12 +37421,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23859,12 +37453,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23878,12 +37486,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23896,12 +37518,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23912,12 +37548,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23930,12 +37580,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23946,12 +37610,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23964,12 +37642,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23980,12 +37672,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -23998,12 +37704,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24017,12 +37737,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24035,12 +37769,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24051,12 +37799,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24069,12 +37831,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24198,12 +37974,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24216,12 +38006,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24232,12 +38036,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24250,12 +38068,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24269,12 +38101,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24287,12 +38133,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24303,12 +38163,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24321,12 +38195,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24340,12 +38228,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24358,12 +38260,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24374,12 +38290,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24392,12 +38322,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24411,12 +38355,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24429,12 +38387,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24445,12 +38417,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24463,12 +38449,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24592,12 +38592,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24610,12 +38624,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24626,12 +38654,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24644,12 +38686,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24663,12 +38719,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24681,12 +38751,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24697,12 +38781,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24715,12 +38813,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24731,12 +38843,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24749,12 +38875,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24765,12 +38905,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24783,12 +38937,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24802,12 +38970,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24820,12 +39002,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24836,12 +39032,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24854,12 +39064,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -24983,12 +39207,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25001,12 +39239,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25017,12 +39269,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25035,12 +39301,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25054,12 +39334,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25072,12 +39366,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25088,12 +39396,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
@@ -25106,12 +39428,26 @@ This project is sponsored by [Howdy QA](https://howdyqa.com/), a Playwright-focu
 
 ---
 
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+
+---
+
 ## [2026-04-08]
 
 ### Added
 
 ### Removed
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+
+---
+
+## [2026-04-17]
+
+### Added
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
 
 ---
 
