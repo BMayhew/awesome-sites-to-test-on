@@ -44,6 +44,7 @@ Worthy sites for security testing
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice.
 
 ## Web Testing
+- [QA Cloud](https://www.qacloud.dev/) - A QA testing platform that includes multiple practice sites for hands-on testing and exploration.
 - [Cnarios](https://www.cnarios.com/) - Cnarios is a concept-based learning platform with real world scenarios with test cases, hands-on challenges, insightful blogs, and interview questions for testers. [END Prasad](https://www.linkedin.com/in/prasad-e-n-d/)
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Test Pages by Evil Tester](https://testpages.eviltester.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
