@@ -62,7 +62,6 @@ Worthy sites for security testing
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site.
-- [E-commerce Demo Store](https://storedemo.testdino.com/) - Public e-commerce demo storefront for UI and end-to-end test practice.
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests).
 - [Selectors Hub - XPath Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
@@ -108,7 +107,6 @@ Worthy sites for security testing
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
-- [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
 - [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills. (cert is expired but site still works)
 - [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
 - [Hands-On Selenium WebDriver](https://bonigarcia.dev/selenium-webdriver-java/) - Lots of different types of web elements to interact with.
