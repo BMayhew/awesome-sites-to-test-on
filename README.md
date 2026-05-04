@@ -31,7 +31,6 @@ Worthy sites for security testing
 - [Gin and Juice Shop](https://ginandjuice.shop/) - A modern web app that is filled with hacking challenges and vulnerabilities by PortSwigger
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
-- [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
 - [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
@@ -57,7 +56,6 @@ Worthy sites for security testing
 - [Parking Calculator](https://www.shino.de/parkcalc/) - Application that is simple enough to understand in 5 minutes but has plenty of bugs to keep a tester busy for hours.
 - [Black Box Puzzles](http://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing.
 - [Sunny Meadows Bed & Breakfast](https://automationintesting.online/) - A modern web app with react front end / api backend.
-- [OrangeHRM](https://opensource-demo.orangehrmlive.com/) - Open source HR Demo site with lots of functionality.
 - [Todo List W/Bugs](http://todolist.james.am/#/)
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing.
@@ -125,7 +123,6 @@ Worthy sites for security testing
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
-- [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
 - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
 - [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
