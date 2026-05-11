@@ -104,7 +104,6 @@ Worthy sites for security testing
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
-- [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
