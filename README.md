@@ -123,6 +123,7 @@ Worthy sites for security testing
 - [AutomateNow Practice Website](https://practice-automation.com/) - Page with different types of interactions to practice automation.
 - [Iframe Search](https://eviltester.github.io/TestingApp/apps/iframe-search/iframe-search.html) - for Iframe testing.
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
+- [Potion Shop](https://qe-at-cgi-fi.github.io/potion-shop/) - A demo e-commerce potion shop for practicing Playwright test automation, including example tests and specs.
 - [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
 
 ## API Testing
