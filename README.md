@@ -71,6 +71,7 @@ Worthy sites for security testing
 - [QA Training Simulator](https://bugeater.web.app/) - Useful site to practice testing skills with a list of challenges.
   - [Test Exercises List](https://bugeater.web.app/app/list) - Different types of test exercises including exploratory testing.
 - [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
+- [ATM Practice App](https://qe-at-cgi-fi.github.io/atm/) - ATM simulation built as a test target for requirements-based testing exercises, exploring boundary conditions, daily withdrawal limits, denomination edge cases, and underspecified requirements.
 
 ## Performance Testing
 
