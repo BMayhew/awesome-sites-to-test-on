@@ -42,6 +42,7 @@ Worthy sites for security testing
 
 - [(DVIA) Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/) - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice.
+- [FrontRow](https://github.com/majdukovic/frontrow) - Open-source React Native concert & events ticketing app with stable test IDs, a QA Debug Menu, deterministic seed data, and ready-to-extend scaffolds for Appium, Espresso, XCUITest, and Maestro on iOS and Android.
 
 ## Web Testing
 - [QA Cloud](https://www.qacloud.dev/) - A QA testing platform that includes multiple practice sites for hands-on testing and exploration.
