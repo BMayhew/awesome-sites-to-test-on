@@ -9,9 +9,7 @@
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
   - [Sponsored By](#sponsored-by)
   - [Security Testing](#security-testing)
-  - [
-  
-  Testing](#mobile-testing)
+  - [Testing](#mobile-testing)
   - [Web Testing](#web-testing)
   - [Performance Testing](#performance-testing)
   - [Test Automation](#test-automation)
