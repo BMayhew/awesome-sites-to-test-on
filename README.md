@@ -42,6 +42,7 @@ Worthy sites for security testing
 
 - [(DVIA) Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/) - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals.
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice.
+- [FrontRow](https://github.com/majdukovic/frontrow) - Open-source React Native concert & events ticketing app with stable test IDs, a QA Debug Menu, deterministic seed data, and ready-to-extend scaffolds for Appium, Espresso, XCUITest, and Maestro on iOS and Android.
 
 ## Web Testing
 - [QA Cloud](https://www.qacloud.dev/) - A QA testing platform that includes multiple practice sites for hands-on testing and exploration.
@@ -71,6 +72,7 @@ Worthy sites for security testing
 - [QA Training Simulator](https://bugeater.web.app/) - Useful site to practice testing skills with a list of challenges.
   - [Test Exercises List](https://bugeater.web.app/app/list) - Different types of test exercises including exploratory testing.
 - [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
+- [ATM Practice App](https://qe-at-cgi-fi.github.io/atm/) - ATM simulation built as a test target for requirements-based testing exercises, exploring boundary conditions, daily withdrawal limits, denomination edge cases, and underspecified requirements.
 
 ## Performance Testing
 
@@ -122,6 +124,7 @@ Worthy sites for security testing
 - [Iframe Search](https://eviltester.github.io/TestingApp/apps/iframe-search/iframe-search.html) - for Iframe testing.
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
 - [Potion Shop](https://qe-at-cgi-fi.github.io/potion-shop/) - A demo e-commerce potion shop for practicing Playwright test automation, including example tests and specs.
+- [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
 
 ## API Testing
 
