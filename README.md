@@ -49,6 +49,7 @@ Worthy sites for security testing
 - [Cnarios](https://www.cnarios.com/) - Cnarios is a concept-based learning platform with real world scenarios with test cases, hands-on challenges, insightful blogs, and interview questions for testers. [END Prasad](https://www.linkedin.com/in/prasad-e-n-d/)
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Test Pages by Evil Tester](https://testpages.eviltester.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
+- [PromptQA Playground](https://playground.promptqa.dev/) - Practice playground with two dummy apps (Shop + Clinic), tricky widgets, an API playground, click-to-inspect locator coach, verifiable challenges, and a Locators Game. Every interactive element is namespaced with stable `data-testid`, `aria-label`, and `role + name`. Built by [Hariprasad Srinivas](https://www.linkedin.com/in/hariprasadms/).
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
 - [Coffee Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing.
 - [Academy Bugs](https://academybugs.com/find-bugs/) - Explore a practice test site that has 25 real bugs planted inside.
