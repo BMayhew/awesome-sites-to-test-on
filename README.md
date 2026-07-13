@@ -32,7 +32,6 @@ Worthy sites for security testing
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
-- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
@@ -47,7 +46,6 @@ Worthy sites for security testing
 ## Web Testing
 - [QA Cloud](https://www.qacloud.dev/) - A QA testing platform that includes multiple practice sites for hands-on testing and exploration.
 - [Cnarios](https://www.cnarios.com/) - Cnarios is a concept-based learning platform with real world scenarios with test cases, hands-on challenges, insightful blogs, and interview questions for testers. [END Prasad](https://www.linkedin.com/in/prasad-e-n-d/)
-- [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [Test Pages by Evil Tester](https://testpages.eviltester.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
 - [PromptQA Playground](https://playground.promptqa.dev/) - Practice playground with two dummy apps (Shop + Clinic), tricky widgets, an API playground, click-to-inspect locator coach, verifiable challenges, and a Locators Game. Every interactive element is namespaced with stable `data-testid`, `aria-label`, and `role + name`. Built by [Hariprasad Srinivas](https://www.linkedin.com/in/hariprasadms/).
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
@@ -88,7 +86,6 @@ Worthy sites for security testing
 
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform).
 - [QA Playground](https://qaplayground.dev/) - A handy place for QA engineers to focus their test automation frameworks on specific parts instead of the entire web application. by [Marko Simic](https://www.linkedin.com/in/marko-simic-whitey/)
-- [Testing Pages Collection](https://testers.ai/testing/) - AI powered test automation practice site with pre-built test cases.
 - [Candy Mapper](https://www.candymapper.net/) - A web app to practice test automation skills.
 - [Commit Quality - Practice Site](https://commitquality.com/) - Commit Quality has been creating High Quality Playwright Automation [Youtube Videos](https://www.youtube.com/@commitquality)
 - [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API and GraphQL endpoints for practicing.
@@ -112,7 +109,6 @@ Worthy sites for security testing
 - [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
-- [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
 - [Tricentis Obstacle Course](https://obstaclecourse.tricentis.com/Obstacles) - Set of challenges to practice automation skills. (cert is expired but site still works)
 - [GreenKart](https://rahulshettyacademy.com/seleniumPractise/#/) - resource from rahulshettyacademy.com to practice automation skills.
 - [Hands-On Selenium WebDriver](https://bonigarcia.dev/selenium-webdriver-java/) - Lots of different types of web elements to interact with.
@@ -136,7 +132,6 @@ Worthy sites for security testing
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
 - [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
 - [Airport Gap](https://airportgap.dev-tester.com/) - Airport Gap is a RESTful API to help you improve your API automation testing skills.
-- [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [PlayPI](https://github.com/abhivaikar/PlayPI)- A simple and intuitive playground for restful, graphQL, gRPC and websocket APIs to learn API testing. Need to run it locally.
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
