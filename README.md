@@ -32,7 +32,6 @@ Worthy sites for security testing
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
-- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
