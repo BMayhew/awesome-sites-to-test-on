@@ -32,7 +32,6 @@ Worthy sites for security testing
 - [Gruyere](https://google-gruyere.appspot.com/) - A CodeLab used for university training around web application exploits.
 - [bWAPP](http://www.itsecgames.com/) - Downloadable web app with over 100 web vulnerabilities.
 - [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
-- [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
@@ -88,7 +87,6 @@ Worthy sites for security testing
 
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform).
 - [QA Playground](https://qaplayground.dev/) - A handy place for QA engineers to focus their test automation frameworks on specific parts instead of the entire web application. by [Marko Simic](https://www.linkedin.com/in/marko-simic-whitey/)
-- [Testing Pages Collection](https://testers.ai/testing/) - AI powered test automation practice site with pre-built test cases.
 - [Candy Mapper](https://www.candymapper.net/) - A web app to practice test automation skills.
 - [Commit Quality - Practice Site](https://commitquality.com/) - Commit Quality has been creating High Quality Playwright Automation [Youtube Videos](https://www.youtube.com/@commitquality)
 - [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API and GraphQL endpoints for practicing.
@@ -102,7 +100,6 @@ Worthy sites for security testing
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
 - [Lambdatest's Selenium Playground](https://www.lambdatest.com/selenium-playground/)
 - [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
-- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) - Small example bank website written in Angular.
 - [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
 - [NearForm Testing Playground](https://nearform.github.io/testing-playground/)
 - [Accessibility Tool Audit](https://alphagov.github.io/accessibility-tool-audit/test-cases.html#content) - Set of elements used for accessibility tool audit.
