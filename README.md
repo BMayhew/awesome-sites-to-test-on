@@ -75,6 +75,10 @@ Worthy sites for security testing
 - [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
 - [QE Buggy Todo App](https://qe-at-cgi-fi.github.io/todo) - Intentionally buggy AngularJS todo list app for exploratory and regression testing practice.
 - [ATM Practice App](https://qe-at-cgi-fi.github.io/atm/) - ATM simulation built as a test target for requirements-based testing exercises, exploring boundary conditions, daily withdrawal limits, denomination edge cases, and underspecified requirements.
+- [SpaceDucking](https://www.spaceducking.com/) - Duck-themed mini apps modeled on real businesses (shop, book club, calculator, Kanban board, fitness tracker, bank), each seeded with deliberate bugs, plus a shared bug database. Built by the [Ministry of Testing](https://www.ministryoftesting.com) community.
+  - [Quack & Cart](https://www.spaceducking.com/apps/quack-and-cart) - Ecommerce app with catalogue, search, filters, cart, coupon codes and a three-step checkout, seeded with validation, calculation and layout bugs.
+  - [Quackulator](https://www.spaceducking.com/apps/quackulator) - Calculator with six selectable builds, each shipping different maths, validation and accessibility defects.
+  - [Duck Data Generator](https://www.spaceducking.com/tools/ducky-data) - Browser-based test data generator for valid and invalid emails, UK postcodes, boundary numbers, unicode strings and edge-case dates.
 
 ## Performance Testing
 

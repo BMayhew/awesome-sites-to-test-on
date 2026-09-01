@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- [SpaceDucking](https://www.spaceducking.com/) - Duck-themed mini apps modeled on real businesses (shop, book club, calculator, Kanban board, fitness tracker, bank), each seeded with deliberate bugs, plus a shared bug database. Built by the [Ministry of Testing](https://www.ministryoftesting.com) community.
+  - [Quack & Cart](https://www.spaceducking.com/apps/quack-and-cart) - Ecommerce app with catalogue, search, filters, cart, coupon codes and a three-step checkout, seeded with validation, calculation and layout bugs.
+  - [Quackulator](https://www.spaceducking.com/apps/quackulator) - Calculator with six selectable builds, each shipping different maths, validation and accessibility defects.
+  - [Duck Data Generator](https://www.spaceducking.com/tools/ducky-data) - Browser-based test data generator for valid and invalid emails, UK postcodes, boundary numbers, unicode strings and edge-case dates.
 - Initial changelog setup
 
 ### Removed
