@@ -12,10 +12,11 @@ A curated list of websites for QA professionals to practice testing. `README.md`
 |---|---|
 | `README.md` | The main list - all site entries live here |
 | `contributing.md` | Human contributor guidelines |
+| `CHANGELOG.md` | Changelog - new entries fold into the `[Unreleased]` section |
 | `linkinator.config.json` | Link checker config - add skip URLs here for known-broken/auth-required links |
-| `.github/workflows/github-action.yml` | Runs `npm run link-checker` on push/PR |
-| `.github/workflows/pr-review.yml` | AI-generated PR summary comment |
-| `.github/workflows/ai-link-fixer.yml` | Weekly automated broken link removal via AI |
+| `.github/workflows/github-action.yml` | Runs `npm run link-checker` on PRs to main |
+| `scripts/generate-changelog.js` | Generates changelog entries + social posts from README diffs (writes to `temp/`) |
+| `.claude/skills/site-maintenance/` | Maintainer skill - link audits, add/update entries, changelog, PRs |
 
 ## Adding a Site
 
@@ -44,6 +45,9 @@ Place the entry in the correct category section. Append to the end of the sectio
 | Performance Testing | Load testing targets, benchmark apps |
 | Test Automation | Sites with rich UI elements, login/CRUD workflows, automation frameworks |
 | API Testing | REST, GraphQL, gRPC, WebSocket practice endpoints |
+
+Full category guidance, entry format rules, and rejection criteria live in
+`.claude/skills/site-maintenance/references/categories.md`.
 
 ## What Needs to Be Added
 
@@ -75,6 +79,17 @@ All links must return 2xx. If a link is inherently problematic (LinkedIn profile
 - Self-promotion is allowed if the site is genuinely useful for testing practice
 - Do not add sites that require paid accounts to access core functionality
 
-## AI Workflows
+## Maintenance
 
-`pr-review.yml` and `ai-link-fixer.yml` use the **GitHub Models API** (`https://models.github.ai/inference`) with the built-in `GITHUB_TOKEN`. No extra secrets or API keys are required.
+The unattended GitHub Actions automation (AI Link Fixer, changelog generator,
+issue-submission agent, PR reviewer) was removed. Maintenance now runs through
+the `site-maintenance` skill (`.claude/skills/site-maintenance/`), invoked
+manually by a maintainer or AI assistant:
+
+- **Link audits** - scan all sites, triage dead links, remove confirmed-dead
+  entries and update the skip list via PR
+- **Add/update entries** - dedupe, fetch, classify, edit `README.md` via PR
+- **Changelog** - after any `README.md` edit, run `node scripts/generate-changelog.js`
+  and fold the entry into `CHANGELOG.md` under `[Unreleased]`
+
+PRs target `main` and must pass the link check before merge.
