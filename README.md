@@ -131,6 +131,7 @@ Worthy sites for security testing
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
 - [Potion Shop](https://qe-at-cgi-fi.github.io/potion-shop/) - A demo e-commerce potion shop for practicing Playwright test automation, including example tests and specs.
 - [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
+- [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
 
 ## API Testing
 
