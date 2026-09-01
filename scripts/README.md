@@ -21,26 +21,12 @@ This will:
 - Generate a social media post
 - Save both to `temp/` directory
 
-## Automated Changelog (GitHub Action)
+## Changelog as part of site maintenance
 
-The repository includes a GitHub Action (`.github/workflows/changelog-generator.yml`) that automatically:
-
-1. **Runs on every push to main** that modifies `README.md`
-2. **Detects changes** by comparing with the previous commit
-3. **Updates CHANGELOG.md** with a new dated entry
-4. **Creates a social media post** formatted for Twitter/LinkedIn/etc.
-5. **Uploads the social post** as a GitHub artifact (available for 90 days)
-
-### Accessing Social Media Posts from GitHub Actions
-
-After each push to main:
-
-1. Go to your repository on GitHub
-2. Click on "Actions" tab
-3. Click on the latest "Generate Changelog" workflow run
-4. Scroll down to "Artifacts" section
-5. Download "social-media-post" artifact
-6. Extract and use the markdown file for your social media posts
+Changelog updates are no longer produced by a GitHub Action. The `site-maintenance`
+skill (`.claude/skills/site-maintenance/`) runs this script after it edits
+`README.md`, folds the new entry into `CHANGELOG.md`, and includes the social-post
+draft in its run report. See the skill's `SKILL.md` for details.
 
 ## Example Output
 
@@ -59,20 +45,19 @@ After each push to main:
 
 ### Social Media Post
 ```
-🚀 Awesome Sites to Test On - Updates for 2026-01-05
+Awesome Sites to Test On - Updates for 2026-01-05
 
-✨ New Testing Sites Added:
-• New Testing Site
+New Testing Sites Added:
+- New Testing Site
   https://example.com
 
 Check out the full list: https://github.com/BMayhew/awesome-sites-to-test-on
 
-#testing #qa #automation #softwaretesting #testautomation
+#testing #qa #automation #softwaretesting
 ```
 
 ## Tips
 
-- The GitHub Action automatically commits the CHANGELOG.md updates
 - Social media posts are limited to the first 5 additions to keep them concise
 - Both scripts only track changes to links (not plain text changes)
 - The temp/ directory is gitignored, so manual generations won't be committed

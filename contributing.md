@@ -9,7 +9,8 @@ Ensure your pull request adheres to the following guidelines:
 
 - Link and description should follow the existing format.
 - Self promoting is fine as long as you are here to help!
-- github action is set to automatically check links to ensure no broken links using [Linkinator](https://github.com/JustinBeckwith/linkinator)
+- A GitHub Action checks every pull request for broken links using [Linkinator](https://github.com/JustinBeckwith/linkinator).
+- The maintainer runs a review pass before merging. New sites are also submitted and vetted through the `site-maintenance` skill (`.claude/skills/site-maintenance/`).
 
 Thank you for your suggestions!
 
