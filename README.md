@@ -101,6 +101,7 @@ Worthy sites for security testing
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
 - [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
+- [TestKru](https://testkru.com/) - Practice playground for UI automation (forms, tables, frames, alerts, dynamic elements, drag and drop) plus a deterministic REST API with [Swagger docs](https://testkru.com/api/docs).
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
@@ -135,6 +136,7 @@ Worthy sites for security testing
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
+- [TestKru Practice API](https://testkru.com/api/docs) - Sandbox REST API for API automation practice (auth, CRUD, validation, rate limits, delays, uploads, redirects, JSON Schema). Static deterministic data with Swagger docs.
 - [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
 - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
