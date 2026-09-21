@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- [Capture the Bugs](https://exploratory-testing-academy.github.io/capture-the-bugs/) - Exploratory testing exercise from the Exploratory Testing Academy: explore a target app, describe each bug you spot in the report panel, use hints when stuck, then submit for scoring by an in-browser AI model that matches your findings against the known bug list. Sessions are anonymous.
 - [SpaceDucking](https://www.spaceducking.com/) - Duck-themed mini apps modeled on real businesses (shop, book club, calculator, Kanban board, fitness tracker, bank), each seeded with deliberate bugs, plus a shared bug database. Built by the [Ministry of Testing](https://www.ministryoftesting.com) community.
   - [Quack & Cart](https://www.spaceducking.com/apps/quack-and-cart) - Ecommerce app with catalogue, search, filters, cart, coupon codes and a three-step checkout, seeded with validation, calculation and layout bugs.
   - [Quackulator](https://www.spaceducking.com/apps/quackulator) - Calculator with six selectable builds, each shipping different maths, validation and accessibility defects.
