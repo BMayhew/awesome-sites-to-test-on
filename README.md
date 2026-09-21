@@ -48,7 +48,10 @@ Worthy sites for security testing
 - [QA Cloud](https://www.qacloud.dev/) - A QA testing platform that includes multiple practice sites for hands-on testing and exploration.
 - [Cnarios](https://www.cnarios.com/) - Cnarios is a concept-based learning platform with real world scenarios with test cases, hands-on challenges, insightful blogs, and interview questions for testers. [END Prasad](https://www.linkedin.com/in/prasad-e-n-d/)
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
-- [Test Pages by Evil Tester](https://testpages.eviltester.com/styled/index.html) - A collection of pages for testing different components and functionality. [Evil Tester](https://www.eviltester.com/)
+- [Test Pages by Evil Tester](https://testpages.eviltester.com/) - Evolving collection of practice pages, one-page apps, games, challenges, and reference material for automation, exploratory testing, and JavaScript hacking, now including AI testing apps built on browser AI APIs. [Evil Tester](https://www.eviltester.com/)
+  - [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing.
+  - [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs.
+  - [Challenges](https://testpages.eviltester.com/challenges/) - Locator and synchronization challenges against dynamic DOMs, animations, and async behavior.
 - [PromptQA Playground](https://playground.promptqa.dev/) - Practice playground with two dummy apps (Shop + Clinic), tricky widgets, an API playground, click-to-inspect locator coach, verifiable challenges, and a Locators Game. Every interactive element is namespaced with stable `data-testid`, `aria-label`, and `role + name`. Built by [Hariprasad Srinivas](https://www.linkedin.com/in/hariprasadms/).
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
 - [Coffee Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing.
@@ -102,6 +105,7 @@ Worthy sites for security testing
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
 - [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
+- [TestKru](https://testkru.com/) - Practice playground for UI automation (forms, tables, frames, alerts, dynamic elements, drag and drop) plus a deterministic REST API with [Swagger docs](https://testkru.com/api/docs).
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation pitfalls appearing in modern web applications are available to interact with.
@@ -132,10 +136,12 @@ Worthy sites for security testing
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
 - [Potion Shop](https://qe-at-cgi-fi.github.io/potion-shop/) - A demo e-commerce potion shop for practicing Playwright test automation, including example tests and specs.
 - [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
+- [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
 
 ## API Testing
 
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
+- [TestKru Practice API](https://testkru.com/api/docs) - Sandbox REST API for API automation practice (auth, CRUD, validation, rate limits, delays, uploads, redirects, JSON Schema). Static deterministic data with Swagger docs.
 - [Bill Payment API ](https://gauravkhurana.in/practise-api/) - A collection of APIs to practice API testing by [Gaurav Khurana](https://www.linkedin.com/in/gauravkhuraana/)
 - [API Challenges by Evil Tester](https://apichallenges.eviltester.com) - A collection of APIs, tutorials, exercises and reference guides for practicing API Testing. [Evil Tester](https://www.eviltester.com/)
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication

@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 - [Capture the Bugs](https://exploratory-testing-academy.github.io/capture-the-bugs/) - Exploratory testing exercise from the Exploratory Testing Academy: explore a target app, describe each bug you spot in the report panel, use hints when stuck, then submit for scoring by an in-browser AI model that matches your findings against the known bug list. Sessions are anonymous.
+- [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
 - [SpaceDucking](https://www.spaceducking.com/) - Duck-themed mini apps modeled on real businesses (shop, book club, calculator, Kanban board, fitness tracker, bank), each seeded with deliberate bugs, plus a shared bug database. Built by the [Ministry of Testing](https://www.ministryoftesting.com) community.
   - [Quack & Cart](https://www.spaceducking.com/apps/quack-and-cart) - Ecommerce app with catalogue, search, filters, cart, coupon codes and a three-step checkout, seeded with validation, calculation and layout bugs.
   - [Quackulator](https://www.spaceducking.com/apps/quackulator) - Calculator with six selectable builds, each shipping different maths, validation and accessibility defects.
@@ -17,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 
 ### Changed
+- [Test Pages by Evil Tester](https://testpages.eviltester.com/) - Entry refreshed for the site's 2026 relaunch: URL updated to the current homepage, description expanded to cover apps, games, tools, and challenges, with new sub-links for the AI Chat Bot App (RAG over the shopping cart via Chrome Prompt API), Browser AI API pages, and the locator/synchronization Challenges.
 
 ---
 
