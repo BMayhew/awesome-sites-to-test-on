@@ -82,6 +82,7 @@ Worthy sites for security testing
   - [Quack & Cart](https://www.spaceducking.com/apps/quack-and-cart) - Ecommerce app with catalogue, search, filters, cart, coupon codes and a three-step checkout, seeded with validation, calculation and layout bugs.
   - [Quackulator](https://www.spaceducking.com/apps/quackulator) - Calculator with six selectable builds, each shipping different maths, validation and accessibility defects.
   - [Duck Data Generator](https://www.spaceducking.com/tools/ducky-data) - Browser-based test data generator for valid and invalid emails, UK postcodes, boundary numbers, unicode strings and edge-case dates.
+- [Capture the Bugs](https://exploratory-testing-academy.github.io/capture-the-bugs/) - Exploratory testing exercise from the Exploratory Testing Academy: explore a target app, describe each bug you spot in the report panel, use hints when stuck, then submit for scoring by an in-browser AI model that matches your findings against the known bug list. Sessions are anonymous.
 
 ## Performance Testing
 
