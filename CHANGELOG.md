@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 
 ### Changed
+- [Test Pages by Evil Tester](https://testpages.eviltester.com/) - Entry refreshed for the site's 2026 relaunch: URL updated to the current homepage, description expanded to cover apps, games, tools, and challenges, with new sub-links for the AI Chat Bot App (RAG over the shopping cart via Chrome Prompt API), Browser AI API pages, and the locator/synchronization Challenges.
 
 ---
 
