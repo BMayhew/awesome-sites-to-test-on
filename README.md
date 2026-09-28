@@ -37,6 +37,7 @@ Worthy sites for security testing
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 - [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - This is a list of other vulnerable web applications that can be used for testing.
+- [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. Successor to the classic Gandalf prompt injection game.
 
 ## Mobile Testing
 
