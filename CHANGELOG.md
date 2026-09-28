@@ -7,7 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
-- [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. Successor to the classic Gandalf prompt injection game.
+- [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. The classic Gandalf prompt injection game now lives here too.
+- [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
+- [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
 - [Capture the Bugs](https://exploratory-testing-academy.github.io/capture-the-bugs/) - Exploratory testing exercise from the Exploratory Testing Academy: explore a target app, describe each bug you spot in the report panel, use hints when stuck, then submit for scoring by an in-browser AI model that matches your findings against the known bug list. Sessions are anonymous.
 - [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
 - [SpaceDucking](https://www.spaceducking.com/) - Duck-themed mini apps modeled on real businesses (shop, book club, calculator, Kanban board, fitness tracker, bank), each seeded with deliberate bugs, plus a shared bug database. Built by the [Ministry of Testing](https://www.ministryoftesting.com) community.
@@ -19,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 
 ### Changed
+- Added an AI Testing section for sites where the system under test is an AI feature. Gandalf: Agent Breaker moved there from Security Testing (classic Gandalf now redirects into it), and Evil Tester's AI Chat Bot App and Browser AI API pages were promoted from sub-links to top-level entries. The Test Pages entry keeps its Challenges sub-link. Category definitions updated in AGENTS.md and the site-maintenance skill.
 - [Test Pages by Evil Tester](https://testpages.eviltester.com/) - Entry refreshed for the site's 2026 relaunch: URL updated to the current homepage, description expanded to cover apps, games, tools, and challenges, with new sub-links for the AI Chat Bot App (RAG over the shopping cart via Chrome Prompt API), Browser AI API pages, and the locator/synchronization Challenges.
 
 ---
