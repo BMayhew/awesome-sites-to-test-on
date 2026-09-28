@@ -11,6 +11,7 @@ first.
 | Web Testing | Demo storefronts, intentionally buggy web apps, exploratory testing targets |
 | Performance Testing | Load-testing targets, benchmark apps, sites that tolerate heavy traffic |
 | Test Automation | Sites with rich UI elements, login / CRUD workflows, framework demo pages |
+| AI Testing | Sites where the system under test is an AI feature: LLM apps, agents, RAG, prompt injection challenges, browser AI APIs. If AI merely assists testing (scoring, generation, tooling), the site stays in the skill-based category. |
 | API Testing | REST, GraphQL, gRPC, WebSocket practice endpoints |
 
 ## Entry format

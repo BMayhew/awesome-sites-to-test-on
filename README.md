@@ -9,10 +9,11 @@
 - [Awesome Sites To Test On](#awesome-sites-to-test-on)
   - [Sponsored By](#sponsored-by)
   - [Security Testing](#security-testing)
-  - [Testing](#mobile-testing)
+  - [Mobile Testing](#mobile-testing)
   - [Web Testing](#web-testing)
   - [Performance Testing](#performance-testing)
   - [Test Automation](#test-automation)
+  - [AI Testing](#ai-testing)
   - [API Testing](#api-testing)
   - [Contribute](#contribute)
 
@@ -37,7 +38,6 @@ Worthy sites for security testing
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 - [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - This is a list of other vulnerable web applications that can be used for testing.
-- [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. Successor to the classic Gandalf prompt injection game.
 
 ## Mobile Testing
 
@@ -49,9 +49,7 @@ Worthy sites for security testing
 - [QA Cloud](https://www.qacloud.dev/) - A QA testing platform that includes multiple practice sites for hands-on testing and exploration.
 - [Cnarios](https://www.cnarios.com/) - Cnarios is a concept-based learning platform with real world scenarios with test cases, hands-on challenges, insightful blogs, and interview questions for testers. [END Prasad](https://www.linkedin.com/in/prasad-e-n-d/)
 - [Automation Exercise](https://www.automationexercise.com/) - Website with API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
-- [Test Pages by Evil Tester](https://testpages.eviltester.com/) - Evolving collection of practice pages, one-page apps, games, challenges, and reference material for automation, exploratory testing, and JavaScript hacking, now including AI testing apps built on browser AI APIs. [Evil Tester](https://www.eviltester.com/)
-  - [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing.
-  - [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs.
+- [Test Pages by Evil Tester](https://testpages.eviltester.com/) - Evolving collection of practice pages, one-page apps, games, challenges, and reference material for automation, exploratory testing, and JavaScript hacking. [Evil Tester](https://www.eviltester.com/)
   - [Challenges](https://testpages.eviltester.com/challenges/) - Locator and synchronization challenges against dynamic DOMs, animations, and async behavior.
 - [PromptQA Playground](https://playground.promptqa.dev/) - Practice playground with two dummy apps (Shop + Clinic), tricky widgets, an API playground, click-to-inspect locator coach, verifiable challenges, and a Locators Game. Every interactive element is namespaced with stable `data-testid`, `aria-label`, and `role + name`. Built by [Hariprasad Srinivas](https://www.linkedin.com/in/hariprasadms/).
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing by [Viv Richards](https://vivrichards.co.uk/tools/)
@@ -138,6 +136,14 @@ Worthy sites for security testing
 - [Potion Shop](https://qe-at-cgi-fi.github.io/potion-shop/) - A demo e-commerce potion shop for practicing Playwright test automation, including example tests and specs.
 - [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
 - [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
+
+## AI Testing
+
+Sites where the system under test is an AI feature: LLM apps, agents, RAG, prompt injection challenges, and browser AI APIs.
+
+- [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. The classic Gandalf prompt injection game now lives here too.
+- [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
+- [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
 
 ## API Testing
 
