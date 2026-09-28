@@ -44,6 +44,7 @@ Place the entry in the correct category section. Append to the end of the sectio
 | Web Testing | Demo storefronts, intentionally buggy apps, exploratory testing targets |
 | Performance Testing | Load testing targets, benchmark apps |
 | Test Automation | Sites with rich UI elements, login/CRUD workflows, automation frameworks |
+| AI Testing | Sites where the system under test is an AI feature: LLM apps, agents, RAG, prompt injection challenges, browser AI APIs |
 | API Testing | REST, GraphQL, gRPC, WebSocket practice endpoints |
 
 Full category guidance, entry format rules, and rejection criteria live in
