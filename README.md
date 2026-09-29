@@ -173,6 +173,7 @@ Sites where the system under test is an AI feature: LLM apps, agents, RAG, promp
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 - [Open Movie Database API](http://www.omdbapi.com/) - API for movie data.
 - [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce) - A free to use E-Commerce Web APIs for practising API testing.
+- [dcrypt.run](https://dcrypt.run) - Chaos-engineering API challenge: reassemble a hidden narrative one fragment at a time from an API that lies to you. Around 55% of responses misbehave across 12 fault types (malformed JSON, bogus status codes, silent quota drains, reversed words), teaching clients to distrust status codes, content types, and response shapes. Self-hostable with a live scoreboard for events. [GitHub](https://github.com/webmull/dcrypt.run).
 
 ## Contribute
 

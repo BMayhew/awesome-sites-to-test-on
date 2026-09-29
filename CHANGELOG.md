@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- [dcrypt.run](https://dcrypt.run) - Chaos-engineering API challenge: reassemble a hidden narrative one fragment at a time from an API that lies to you. Around 55% of responses misbehave across 12 fault types (malformed JSON, bogus status codes, silent quota drains, reversed words), teaching clients to distrust status codes, content types, and response shapes. Self-hostable with a live scoreboard for events. [GitHub](https://github.com/webmull/dcrypt.run).
 - [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. The classic Gandalf prompt injection game now lives here too.
 - [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
 - [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
