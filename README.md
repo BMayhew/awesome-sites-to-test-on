@@ -137,6 +137,8 @@ Worthy sites for security testing
 - [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
 - [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
 
+- [Playwright Demo TodoMVC](https://demo.playwright.dev/todomvc) - The TodoMVC app used throughout Playwright's own documentation, so you can follow the docs examples against the same app. Minimal and reliable for first steps with any automation tool.
+
 ## AI Testing
 
 Sites where the system under test is an AI feature: LLM apps, agents, RAG, prompt injection challenges, and browser AI APIs.
