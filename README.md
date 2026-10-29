@@ -136,6 +136,7 @@ Worthy sites for security testing
 - [Potion Shop](https://qe-at-cgi-fi.github.io/potion-shop/) - A demo e-commerce potion shop for practicing Playwright test automation, including example tests and specs.
 - [SeleniumBase Demo Pages](https://seleniumbase.io/) - Multiple demo apps available in the Demo Pages sidebar, covering a wide range of UI elements and interactions for test automation practice.
 - [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
+- [Playwright Playground](https://playwright-playground.com/) - Free Playwright with TypeScript practice site: 41 exercises across 11 areas (locators, dynamic elements and flaky timing, frames, dialogs, tables, Shadow DOM, network mocking, API testing), graded beginner to advanced. Each exercise has a brief and a hidden reference solution; point your test project's baseURL at the site and mark exercises solved as you go. No sign-up, progress saved in the browser.
 
 ## AI Testing
 
