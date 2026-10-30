@@ -138,6 +138,8 @@ Worthy sites for security testing
 - [Hotel Example Site](https://hotel-example-site.takeyaqa.dev/en-US/index.html) - Mocked hotel booking app for browser automation practice: login and signup flows, room reservations with dynamically calculated pricing, Ajax-loaded plans that differ by membership (preset premium and normal accounts included), confirmation dialogs, and responsive layout. Data is stored client-side. [GitHub](https://github.com/takeyaqa/hotel-example-site).
 - [Playwright Playground](https://playwright-playground.com/) - Free Playwright with TypeScript practice site: 41 exercises across 11 areas (locators, dynamic elements and flaky timing, frames, dialogs, tables, Shadow DOM, network mocking, API testing), graded beginner to advanced. Each exercise has a brief and a hidden reference solution; point your test project's baseURL at the site and mark exercises solved as you go. No sign-up, progress saved in the browser.
 
+- [Playwright Demo TodoMVC](https://demo.playwright.dev/todomvc) - The TodoMVC app used throughout Playwright's own documentation, so you can follow the docs examples against the same app. Minimal and reliable for first steps with any automation tool.
+
 ## AI Testing
 
 Sites where the system under test is an AI feature: LLM apps, agents, RAG, prompt injection challenges, and browser AI APIs.

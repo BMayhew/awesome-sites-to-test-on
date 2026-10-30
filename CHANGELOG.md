@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- [Playwright Demo TodoMVC](https://demo.playwright.dev/todomvc) - The TodoMVC app used throughout Playwright's own documentation, so you can follow the docs examples against the same app. Minimal and reliable for first steps with any automation tool.
 - [SWAPI](https://swapi.dev/) - Well-documented read-only REST API for Star Wars data (people, films, planets, starships). Good target for building your first API test suite or Postman collection without auth in the way.
 - [Playwright Playground](https://playwright-playground.com/) - Free Playwright with TypeScript practice site: 41 exercises across 11 areas (locators, dynamic elements and flaky timing, frames, dialogs, tables, Shadow DOM, network mocking, API testing), graded beginner to advanced. Each exercise has a brief and a hidden reference solution; point your test project's baseURL at the site and mark exercises solved as you go. No sign-up, progress saved in the browser.
 - [dcrypt.run](https://dcrypt.run) - Chaos-engineering API challenge: reassemble a hidden narrative one fragment at a time from an API that lies to you. Around 55% of responses misbehave across 12 fault types (malformed JSON, bogus status codes, silent quota drains, reversed words), teaching clients to distrust status codes, content types, and response shapes. Self-hostable with a live scoreboard for events. [GitHub](https://github.com/webmull/dcrypt.run).
