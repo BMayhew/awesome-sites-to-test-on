@@ -102,7 +102,6 @@ Worthy sites for security testing
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
   - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
-- [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
 - [TestKru](https://testkru.com/) - Practice playground for UI automation (forms, tables, frames, alerts, dynamic elements, drag and drop) plus a deterministic REST API with [Swagger docs](https://testkru.com/api/docs).
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
@@ -117,7 +116,6 @@ Worthy sites for security testing
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
-- [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
