@@ -87,7 +87,6 @@ Worthy sites for security testing
 
 - [DemoBlaze](https://demoblaze.com/) - See About Us for a Walk through of the site and how to automate against it.
 - [Simple Travel Agency](https://blazedemo.com/index.php) - BlazeMeter demo site for performance testing.
-- [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
 - [QuickPizza](https://github.com/grafana/quickpizza) - A GitHub repository with k6 tests for learning and evaluating performance.
 - [BlazeMeter Demo Store](https://www.demoblaze.com/)
 
@@ -102,7 +101,6 @@ Worthy sites for security testing
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
   - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
   - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
-- [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [Expand testing](https://practice.expandtesting.com/) - Automation Practice Web App for UI and API Testing
 - [TestKru](https://testkru.com/) - Practice playground for UI automation (forms, tables, frames, alerts, dynamic elements, drag and drop) plus a deterministic REST API with [Swagger docs](https://testkru.com/api/docs).
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
@@ -117,7 +115,6 @@ Worthy sites for security testing
 - [The Lab](http://thelab.boozang.com/) - powered by boozang, unique exercises to test your automation skills.
 - [LetCode.in](https://letcode.in/test) - Lots of element examples for E2E test automation practice.
 - [Applitools Demo](https://demo.applitools.com/) - Website for visual testing, it can be compared against the [second version](https://demo.applitools.com/index_v2.html) to find visual bugs.
-- [Lambdatest Playground](https://ecommerce-playground.lambdatest.io) - Robust e-commerce website with a wide-variety of modules to practice test automation skills.
 - [Locator Game](https://testsmith-io.github.io/locator-game/) - A site to help you identify locators for test automation.
 - [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/) [source](https://github.com/qxf2/weather-shopper)
 - [Automation Test Store](https://automationteststore.com/) - E-commerce Store to practice automation skills.
@@ -145,6 +142,7 @@ Sites where the system under test is an AI feature: LLM apps, agents, RAG, promp
 - [Gandalf: Agent Breaker](https://play.lakera.ai/agent-breaker) - AI security challenge from Lakera: a simulated app store of GenAI applications where every app can be hacked. Exploit real-world AI agents with prompt injection and other attacks to learn how they fail. The classic Gandalf prompt injection game now lives here too.
 - [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
 - [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
+- [Chargeback OS](https://chargeback.cloudbotanist.ai/) - Agentic commerce sandbox for testing AI agents: connect yours via a remote MCP server (Claude Code, Cursor, VS Code with Copilot, or any MCP client) and challenge it on failed deliveries, misleading refund claims, and deceptive seller tactics. Synthetic money, private runs, and browser approval for each transaction.
 
 ## API Testing
 
