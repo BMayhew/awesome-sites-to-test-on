@@ -159,6 +159,7 @@ Sites where the system under test is an AI feature: LLM apps, agents, RAG, promp
 - [Req | Res](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Rick and Morty API](https://rickandmortyapi.com/graphql) - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
 - [Countries GraphQL](https://countries.trevorblades.com/) - Simple Graphql API to interact with country data - [docs](https://github.com/trevorblades/countries)
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter that decodes escaped JSON strings; handy for inspecting and debugging API responses.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
 - [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service.
