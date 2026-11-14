@@ -38,6 +38,7 @@ Worthy sites for security testing
 - [VAmPI The Vulnerable API (Based on OpenAPI 3)](https://github.com/erev0s/VAmPI)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
 - [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - This is a list of other vulnerable web applications that can be used for testing.
+- [botstop.io](https://botstop.io/) - Browser and bot detection benchmark: 38 live signals across automation and CDP detection, viewport integrity, worker-realm cross-checks, hardware side-channels (CPU timing, cache behavior, GPU rasterization), and behavioral telemetry. Run your Playwright, Puppeteer, or Selenium stack against it to see exactly which signals give you away, with every observed value explained. Proxy and VPN detection included.
 
 ## Mobile Testing
 
