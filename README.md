@@ -144,6 +144,7 @@ Sites where the system under test is an AI feature: LLM apps, agents, RAG, promp
 - [AI Chat Bot App](https://testpages.eviltester.com/apps/ai-chat-bot/) - RAG chatbot answering questions about the Basic Shopping Cart app, generated via the Chrome Prompt API, for practicing AI feature testing. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
 - [Browser AI API Pages](https://testpages.eviltester.com/pages/browser-apis/ai/) - Example pages for experimenting with and automating the browser's built-in AI APIs. Part of [Test Pages by Evil Tester](https://testpages.eviltester.com/).
 - [Chargeback OS](https://chargeback.cloudbotanist.ai/) - Agentic commerce sandbox for testing AI agents: connect yours via a remote MCP server (Claude Code, Cursor, VS Code with Copilot, or any MCP client) and challenge it on failed deliveries, misleading refund claims, and deceptive seller tactics. Synthetic money, private runs, and browser approval for each transaction.
+- [ClaimSeed](https://github.com/claimseed/claimseed) - Synthetic U.S. medical billing test data with answer keys: seeded PDFs (Medicare Summary Notices, itemized bills, EOBs) whose ground-truth JSON records exactly which billing errors were injected and where. Render blind sets, run your document extractor or bill-review agent against them, and score field accuracy, error recall, precision, and false alarms, with decoys that look like errors but follow the rules. npm CLI, library, and MCP server.
 
 ## API Testing
 
