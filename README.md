@@ -85,6 +85,7 @@ Worthy sites for security testing
   - [Quackulator](https://www.spaceducking.com/apps/quackulator) - Calculator with six selectable builds, each shipping different maths, validation and accessibility defects.
   - [Duck Data Generator](https://www.spaceducking.com/tools/ducky-data) - Browser-based test data generator for valid and invalid emails, UK postcodes, boundary numbers, unicode strings and edge-case dates.
 - [Capture the Bugs](https://exploratory-testing-academy.github.io/capture-the-bugs/) - Exploratory testing exercise from the Exploratory Testing Academy: explore a target app, describe each bug you spot in the report panel, use hints when stuck, then submit for scoring by an in-browser AI model that matches your findings against the known bug list. Sessions are anonymous.
+- [BughuntLab](https://www.bughuntlab.com/) - Manual QA practice that grades itself: 24 timed challenges across four sandbox products (storefront, bank, crypto wallet, trading desk), each with five seeded faults. Write the structured report you would file at work, scored against a hidden answer key with 70% to pass and false positives costing points. Instrumented sandboxes log which faults you actually triggered.
 
 
 
