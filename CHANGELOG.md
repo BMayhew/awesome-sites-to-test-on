@@ -28,6 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Initial changelog setup
 
 ### Removed
+- Zero Bank - Demo banking site removed from Security Testing. The link checker returns 503 for http://zero.webappsecurity.com/.
 - BookCart - E-commerce online bookstore practice site removed from Test Automation. The link check reported status 0 (unreachable).
 - Lambdatest Playground - E-commerce playground removed from Test Automation. The link check reported status 0 (unreachable).
 - Pet Store - Pet store for performance testing removed from Performance Testing. The link check reported 404.
